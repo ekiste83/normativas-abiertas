@@ -1,0 +1,1553 @@
+[
+  {
+    "codigoNorma": "CTE-DB-HS3-CO-GARAJE-MANTENIMIENTO-ANUAL",
+    "nombreInspeccion": "Mantenimiento anual detección CO y extracción forzada de garaje",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 314/2006 CTE DB-HS 3 + CTE DB-SI 3 + RD 1027/2007 RITE (IT 3) + UNE-EN 50545-1:2012",
+    "articulo": "CTE DB-HS 3 (ventilación garajes aparcamiento) + DB-SI 3 (evacuación de humos) + RITE IT 3 + UNE-EN 50545-1 (aparatos eléctricos para detección CO)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "sancionMinEur": 60000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Acumulación de CO en garajes: intoxicación de ocupantes (letal en 30-60 min a concentraciones >1.000 ppm). Responsabilidad penal por homicidio imprudente en caso de víctimas. Pérdida de licencia de actividad del garaje."
+  },
+  {
+    "codigoNorma": "CTE-DB-SUA8-UNE-EN-62305-PARARRAYOS-ANUAL",
+    "nombreInspeccion": "Verificación anual del sistema de protección contra el rayo",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "CTE DB-SUA 8 + UNE-EN 62305 / UNE 21186",
+    "articulo": "CTE DB-SUA 8; UNE-EN 62305-3 (Tabla E.2)",
+    "urlOficial": "https://www.codigotecnico.org/pdf/Documentos/SUA/DBSUA.pdf",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Responsabilidad civil en caso de impacto de rayo. Invalidación de seguro."
+  },
+  {
+    "codigoNorma": "DEC-102-2015-LEY-11-2018-EXTREMADURA-ITE",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Extremadura)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "EXTREMADURA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "Decreto 102/2015 + Ley 11/2018 (LOTUS)",
+    "articulo": "Decreto 102/2015, de 11 de junio",
+    "urlOficial": "https://doe.juntaex.es/pdfs/doe/2015/1250o/15040084.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución. Ejecución subsidiaria a costa del propietario. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "DEC-117-2018-PV-ITE-50A-10A",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (País Vasco)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 117/2018 + Ley 3/2015 de Vivienda del País Vasco",
+    "articulo": "Art. 52 Ley 3/2015; Decreto 117/2018",
+    "urlOficial": "https://www.legegunea.euskadi.eus/eli/es-pv/d/2018/07/24/117",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Infracción muy grave no acometer reparaciones urgentes (arts. 83, 84, 90 Ley 3/2015). Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "DEC-125-2016-PV-GAS-OCA-5A",
+    "nombreInspeccion": "Inspección de instalaciones receptoras de gas / GLP (País Vasco)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "Decreto 125/2016 del País Vasco (desarrolla RD 919/2006 ITC-ICG 07)",
+    "articulo": "Arts. 4-7 (procedimiento y sujetos obligados)",
+    "urlOficial": "https://www.euskadi.eus/y22-bopv/es/bopv2/datos/2016/07/1603313a.shtml",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro. En caso de fuga: responsabilidad civil y penal del propietario/comunidad."
+  },
+  {
+    "codigoNorma": "DEC-29-2017-ASTURIAS-IEE",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Asturias)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ASTURIAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 29/2017 del Principado de Asturias",
+    "articulo": "Decreto 29/2017, de 17 de mayo",
+    "urlOficial": "https://www.asturias.es/bopa/2017/05/24/2017-05669.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Declaración de ruina. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "DEC-485-2019-AND-PISCINA-ANUAL",
+    "nombreInspeccion": "Piscina comunitaria (Andalucía) — Decreto 485/2019",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 485/2019, de 4 de junio (Reglamento Técnico-Sanitario de Piscinas en Andalucía)",
+    "articulo": "BOJA nº108, 7/6/2019",
+    "urlOficial": "https://www.juntadeandalucia.es/boja/2019/109/1",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "DEC-99-2024-MADRID-PISCINAS",
+    "nombreInspeccion": "Piscina comunitaria (Madrid) — Decreto 99/2024",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 99/2024, de 30 de octubre, de la Comunidad de Madrid, por el que se regulan las condiciones higiénico-sanitarias de las piscinas",
+    "articulo": "BOCM nº 260, 31/10/2024",
+    "urlOficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2024/10/31/BOCM-20241031-11.PDF",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina por la autoridad sanitaria. Sanción por vía sanitaria (Ley 33/2011) y por vía de consumo."
+  },
+  {
+    "codigoNorma": "DF-86-2018-NAV-PISCINA-ANUAL",
+    "nombreInspeccion": "Piscina comunitaria (Navarra) — DF 86/2018 + DF 27/2025",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "NAVARRA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto Foral 86/2018 mod. por DF 6/2022 y DF 27/2025",
+    "articulo": "Reglamento Sanitario Piscinas Navarra",
+    "urlOficial": "https://bon.navarra.es/es/anuncio/-/texto/2018/211/0",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "IEE-BALEARES-LUIB-125",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Baleares)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 12/2017 (LUIB) art. 125 + Decreto 17/2016",
+    "articulo": "Art. 125 LUIB (mod. Ley 7/2024)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-806",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 3000.0,
+    "riesgoAdicional": "Infracción urbanística leve (art. 174 LUIB). Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "IEE-CANTABRIA-DEC-1-2014",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Cantabria)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 1/2014 de Cantabria",
+    "articulo": "Decreto 1/2014, de 9 de enero",
+    "urlOficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=261030",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "IEE-GALICIA-LEY-1-2019-DEC-61-2021",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Galicia)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "GALICIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 1/2019 + Decreto 61/2021 (mod. D. 34/2022)",
+    "articulo": "Arts. 5-10 Ley 1/2019; Decreto 61/2021",
+    "urlOficial": "https://www.xunta.gal/dog/Publicados/2021/20210420/AnuncioG0532-130421-1_es.html",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Declaración de ruina. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "IEE-MURCIA-DEC-34-2015",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Murcia)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "MURCIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 34/2015 de la Región de Murcia",
+    "articulo": "Decreto 34/2015, de 13 de marzo",
+    "urlOficial": "http://www.borm.es/borm/vista/busqueda/ver_anuncio_html.jsf?fecha=17032015&numero=3348&origen=sum",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "IEE-NAVARRA-DF-108-2014",
+    "nombreInspeccion": "IEE — Informe de Evaluación del Edificio (Navarra)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "NAVARRA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto Foral 108/2014 de Navarra",
+    "articulo": "DF 108/2014",
+    "urlOficial": "https://www.lexnavarra.navarra.es/detalle.asp?r=34830",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "IEEV-CV-VALENCIA",
+    "nombreInspeccion": "IEEV.CV — Informe de Evaluación del Edificio (C. Valenciana)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "COMUNIDAD_VALENCIANA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 53/2018 (C. Valenciana)",
+    "articulo": "Art. 4",
+    "urlOficial": "https://www.dogv.gva.es/datos/2019/01/14/pdf/2019_369.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "IITE-CATALUNA-VIVIENDAS",
+    "nombreInspeccion": "IITE — Inspección de Edificios de Viviendas (Cataluña)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 67/2015 (Cataluña)",
+    "articulo": "Art. 3",
+    "urlOficial": "https://portaldogc.gencat.cat/utilsEADOP/PDF/6835/1420272.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución. Posible declaración de ruina."
+  },
+  {
+    "codigoNorma": "ITE-ANDALUCIA-LISTA-7-2021",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Andalucía)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 7/2021 (LISTA) + Decreto 550/2022 (RLISTA)",
+    "articulo": "Art. 144 LISTA; Arts. 323 y ss. RLISTA",
+    "urlOficial": "https://www.juntadeandalucia.es/boja",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-ARAGON-LEY-3-2009",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Aragón)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ARAGON"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 3/2009 de Urbanismo de Aragón + Ord. Municipal Zaragoza",
+    "articulo": "Art. 261 Ley 3/2009",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOA-d-2014-90410",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-BALEARES-LUIB-125-CONSERVACION",
+    "nombreInspeccion": "ITE — Evaluación del estado de conservación (Baleares, >30 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 12/2017 LUIB, Art. 125 (Baleares), mod. Ley 7/2024",
+    "articulo": "Art. 125 LUIB",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-806",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 3000.0,
+    "riesgoAdicional": "Infracción urbanística leve (art. 174 LUIB)."
+  },
+  {
+    "codigoNorma": "ITE-CAM-LEY-9-2001-ART-169",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Comunidad de Madrid)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 9/2001 del Suelo de la Comunidad de Madrid",
+    "articulo": "Art. 169",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-18984",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Posible declaración de ruina. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-CANARIAS-LSENPC-4-2017",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Canarias)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CANARIAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 240,
+    "normativaReferencia": "Ley 4/2017 (LSENPC)",
+    "articulo": "Art. 269 + Disposición Adicional 3ª",
+    "urlOficial": "https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10295",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-CASTILLA-LA-MANCHA-TRLOTAU-DEC-25-2019",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Castilla-La Mancha)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CASTILLA_LA_MANCHA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 25/2019 + TRLOTAU (D. 34/2011)",
+    "articulo": "Arts. 63-65 TRLOTAU; Decreto 25/2019",
+    "urlOficial": "https://iee.castillalamancha.es/",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Infracción urbanística. Orden de ejecución. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-CASTILLA-LEON-LEY-5-1999-DEC-6-2016",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificaciones (Castilla y León)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Decreto 6/2016 + Ley 5/1999 de Urbanismo",
+    "articulo": "Art. 110 Ley 5/1999; Decreto 6/2016 (mod. D. 22/2004)",
+    "urlOficial": "https://vivienda.jcyl.es/web/es/rehabilitacion-urbana/inspeccion-tecnica-edificaciones.html",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-CEUTA-2013",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Ceuta)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CEUTA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Reglamento de Conservación, Rehabilitación e ITE (BOME nº5039, 2/7/2013)",
+    "articulo": "Título III, Arts. 52-63",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ITE-MELILLA-BOME-5039-2013",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (Melilla)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "MELILLA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Reglamento de Conservación, Rehabilitación e ITE de Melilla (BOME 2013)",
+    "articulo": "Título III, Arts. 52-63 (BOME nº 5039, 2/7/2013)",
+    "urlOficial": "https://www.melilla.es/mandar.php/n/7/7390/5039_2641.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución. Declaración de ruina. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "LEGIONELLA-ANDALUCIA-COMP-BOJA-144",
+    "nombreInspeccion": "Legionella — Requisitos complementarios (Andalucía)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 287/2002 + Orden de 2 de julio de 2004",
+    "articulo": "BOJA nº144, 7/12/2002",
+    "urlOficial": "https://www.juntadeandalucia.es/boja/2002/144/d2.pdf",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Sanción sanitaria adicional al RD 487/2022."
+  },
+  {
+    "codigoNorma": "LEGIONELLA-ASTURIAS-COMP-BOPA",
+    "nombreInspeccion": "Legionella — Requisitos complementarios (Asturias)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "ASTURIAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 90/2002 del Principado de Asturias",
+    "articulo": "BOPA",
+    "urlOficial": null,
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Sanción sanitaria adicional al RD 487/2022."
+  },
+  {
+    "codigoNorma": "LEGIONELLA-CANTABRIA-COMP-BOC",
+    "nombreInspeccion": "Legionella — Requisitos complementarios (Cantabria)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 122/2002",
+    "articulo": "BOC",
+    "urlOficial": null,
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Sanción sanitaria adicional al RD 487/2022."
+  },
+  {
+    "codigoNorma": "LEGIONELLA-GALICIA-COMP-DOG",
+    "nombreInspeccion": "Legionella — Requisitos complementarios (Galicia)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "GALICIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 9/2001 de Galicia",
+    "articulo": "DOG",
+    "urlOficial": null,
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Sanción sanitaria adicional al RD 487/2022."
+  },
+  {
+    "codigoNorma": "LEY-2-2007-RIOJA-ITE",
+    "nombreInspeccion": "ITE — Inspección Técnica de Edificios (La Rioja)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ley 2/2007 de Vivienda de La Rioja",
+    "articulo": "Art. 36 Ley 2/2007",
+    "urlOficial": "https://www.boe.es/eli/es-ri/l/2007/03/01/2",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ORD_ITE_CORDOBA_2012",
+    "nombreInspeccion": "ITE Municipal — Córdoba (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Córdoba"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de ITE de Córdoba",
+    "articulo": "Art. 1. Texto Refundido, BOP Córdoba 31/12/2012 (original: BOP 25/09/2009)",
+    "urlOficial": "https://www.cordoba.es/sites/default/files/PDF/Ayuntamiento/ordenanzas_bandos_y_otros/ordenanzas-y-reglamentos-municipales-no-fiscales/via_publica/ordenanza_Inspec_Tecnica.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "ORD_ITE_HUELVA_2002",
+    "nombreInspeccion": "ITE Municipal — Huelva (14 años, renovación cada 5)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Huelva"
+    ],
+    "periodicidadMeses": 60,
+    "normativaReferencia": "Ordenanza Municipal de ITE de Huelva",
+    "articulo": "Ordenanza Municipal de Inspección Técnica de la Edificación, BOP Huelva nº 99 de 02/05/2002 (modif. BOP nº 296 de 27/12/2003)",
+    "urlOficial": "https://www.huelva.es/portal/es/inspecci%C3%B3n-t%C3%A9cnica-de-la-edificaci%C3%B3n",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "ORD_ITE_LAGUNA_2015",
+    "nombreInspeccion": "ITE Municipal — La Laguna (Conjunto Histórico, 25 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CANARIAS"
+    ],
+    "municipio": [
+      "San Cristóbal de La Laguna",
+      "La Laguna"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de La Laguna (Conjunto Histórico)",
+    "articulo": "Ordenanza Municipal de la Inspección Técnica de las Edificaciones en el Término Municipal de San Cristóbal de La Laguna, BOP SCT nº 103 de 12/08/2015",
+    "urlOficial": "https://www.urbanismolalaguna.es/tramites/ite-inspeccion-tecnica-de-edificaciones",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "ORD_ITE_MALAGA_2013",
+    "nombreInspeccion": "ITE Municipal — Málaga (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Málaga"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de ITE de Málaga",
+    "articulo": "Ordenanza Municipal de Conservación e Inspección Técnica de las Edificaciones, BOP Málaga nº 225 suplemento 2 de 25/11/2013 (vigor 14/12/2013)",
+    "urlOficial": "https://urbanismo.malaga.eu/tramites/conservacion-e-ite/",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "ORD_ITE_MARBELLA_2013",
+    "nombreInspeccion": "ITE Municipal — Marbella (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Marbella"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de ITE de Marbella",
+    "articulo": "Ordenanza de Inspección Técnica de Edificaciones y Construcciones, BOP Málaga nº 224 de 22/11/2013",
+    "urlOficial": "https://urbanismo.marbella.es/ite.html",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento."
+  },
+  {
+    "codigoNorma": "ORD_ITE_SEVILLA_2011",
+    "nombreInspeccion": "ITE Municipal — Sevilla (20 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Sevilla"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de ITE de Sevilla",
+    "articulo": "Texto Refundido, BOP Sevilla 16/11/2011 (original: BOP 17/06/2004, modif. 28/09/2011)",
+    "urlOficial": "https://www.sevilla.org/ayuntamiento/unidad-organica/servicio-de-apoyo-juridico/ordenanzas-del-municipio-de-sevilla/texto-refundido-de-la-ordenanza-de-inspeccion-tecnica-de-edificaciones.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ORD_ITF_LPGC",
+    "nombreInspeccion": "ITF Municipal — Las Palmas de Gran Canaria (Fachadas, 10 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CANARIAS"
+    ],
+    "municipio": [
+      "Las Palmas de Gran Canaria"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal ITF Las Palmas de GC",
+    "articulo": "Ordenanza Especial sobre Conservación y Estado Ruinoso de las Edificaciones, Título I, Sección 1ª Art. 5",
+    "urlOficial": "https://sedeelectronica.laspalmasgc.es/textos/2/OM_ConservacionyEstadoRuinosoEdif_LasPalmasGC.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil en caso de caída de elementos de fachada."
+  },
+  {
+    "codigoNorma": "ORD-ANM-2011-65-MADRID-ITE",
+    "nombreInspeccion": "ITE Municipal — Madrid (30 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": [
+      "Madrid"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ord. Conservación ANM 2011/65 + RD-ley 8/2011",
+    "articulo": "Art. 21 RDL 8/2011",
+    "urlOficial": "https://www.madrid.es/UnidadesDescentralizadas/UDCInspecciones/ITE/Normativa/Ficheros/Ordenanza_Conservacion_Rehabilitacion_Edificios.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Orden de ejecución del Ayuntamiento. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "ORD-BCN-IITE-45A",
+    "nombreInspeccion": "IITE Municipal — Barcelona (45 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": [
+      "Barcelona"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza sobre procedimiento de comunicación y tramitación de la IITE de Barcelona",
+    "articulo": null,
+    "urlOficial": "https://ajuntament.barcelona.cat/habitatge/ca/tramits/inspeccio-tecnica-edificis-iite",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "No renovación de cédula de habitabilidad. Bloqueo de ayudas. Imposibilidad de transmisión."
+  },
+  {
+    "codigoNorma": "ORD-BILBAO-ITE-50A",
+    "nombreInspeccion": "ITE Municipal — Bilbao (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": [
+      "Bilbao"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal ITE de Bilbao (27/10/2016)",
+    "articulo": null,
+    "urlOficial": "https://www.bilbao.eus/",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Ejecución subsidiaria. Sanciones urbanísticas del TRLSUPV."
+  },
+  {
+    "codigoNorma": "ORD-MANRESA-IITE-40A",
+    "nombreInspeccion": "IITE Municipal — Manresa (40 años, excepción)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": [
+      "Manresa"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal IITE de Manresa (excepción de 40 años frente al Decreto 67/2015 catalán)",
+    "articulo": null,
+    "urlOficial": "https://www.manresa.cat/web/menu/2042-inspeccio-tecnica-edificis-iite",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Bloqueo de cédula de habitabilidad. Imposibilidad de transmisión."
+  },
+  {
+    "codigoNorma": "ORD-PALMA-ITE-50A",
+    "nombreInspeccion": "ITE Municipal — Palma (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": [
+      "Palma"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal ITE de Palma (BOIB 73/2015)",
+    "articulo": null,
+    "urlOficial": "https://www.caib.es/eboibfront/es/2015/10293/",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 3000.0,
+    "riesgoAdicional": "Infracción urbanística leve (art. 174 LUIB). Orden de ejecución subsidiaria."
+  },
+  {
+    "codigoNorma": "ORD-VALENCIA-ITE-50A",
+    "nombreInspeccion": "ITE Municipal — Valencia (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "COMUNIDAD_VALENCIANA"
+    ],
+    "municipio": [
+      "Valencia"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de Inspección Técnica de Edificios de Valencia",
+    "articulo": null,
+    "urlOficial": "https://www.valencia.es/es/cas/edificios-construccion/inspeccion-tecnica-edificios",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Ejecución subsidiaria municipal. Bloqueo de licencias urbanísticas."
+  },
+  {
+    "codigoNorma": "ORD-VIGO-ITE-40A",
+    "nombreInspeccion": "ITE Municipal — Vigo (40 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "GALICIA"
+    ],
+    "municipio": [
+      "Vigo"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal ITE de Vigo (BOP_PO 17/11/2010)",
+    "articulo": null,
+    "urlOficial": "https://hoxe.vigo.org/movemonos/edificios_inspeccion.php",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Orden de ejecución. Sanción urbanística."
+  },
+  {
+    "codigoNorma": "ORD-ZARAGOZA-ITE-50A",
+    "nombreInspeccion": "ITE Municipal — Zaragoza (50 años)",
+    "tipoInspeccion": "ITE",
+    "ccaa": [
+      "ARAGON"
+    ],
+    "municipio": [
+      "Zaragoza"
+    ],
+    "periodicidadMeses": 120,
+    "normativaReferencia": "Ordenanza Municipal de Inspección Técnica de Edificios de Zaragoza (BOPZ nº31, octubre 2002)",
+    "articulo": null,
+    "urlOficial": "https://www.zaragoza.es/ciudad/normativa/detalle_Normativa?id=389",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Orden de ejecución subsidiaria. Multa coercitiva."
+  },
+  {
+    "codigoNorma": "PISCINA-ARAGON-DEC-119-2006",
+    "nombreInspeccion": "Piscina comunitaria (Aragón) — Decretos 50/1993 + 119/2006",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "ARAGON"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 50/1993 mod. por Decreto 119/2006",
+    "articulo": "Art. 34 (redactado por D. 119/2006)",
+    "urlOficial": "https://www.aragon.es/documents/20127/674325/Decreto_119_2006.pdf/391136ad-918f-23cb-443b-c10df8984acb",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-ASTURIAS-DEC-140-2009",
+    "nombreInspeccion": "Piscina comunitaria (Asturias) — Decreto 140/2009",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "ASTURIAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 140/2009, de 11 de noviembre (Reglamento Técnico-Sanitario de Piscinas de Uso Colectivo)",
+    "articulo": "BOPA nº277, 30/11/2009",
+    "urlOficial": "https://sede.asturias.es/bopa/2009/11/30/2009-27117.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-CANARIAS-DEC-119-2010",
+    "nombreInspeccion": "Piscina comunitaria (Canarias) — Decretos 212/2005 + 119/2010",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "CANARIAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 212/2005 mod. por Decreto 119/2010",
+    "articulo": "Reglamento Sanitario Piscinas Canarias",
+    "urlOficial": "https://www3.gobiernodecanarias.org/sanidad/scs/content/0d49ed11-d83c-11df-a380-a19cf0dff4f6/3_D_212_2005%20Piscinas.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-CANTABRIA-DEC-72-2008",
+    "nombreInspeccion": "Piscina comunitaria (Cantabria) — Decretos 72/2008 + 56/2009",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 72/2008 mod. por Decreto 56/2009",
+    "articulo": "BOC nº199, 15/10/2008",
+    "urlOficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=154619",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-CASTILLA-LA-MANCHA-DEC-72-2017",
+    "nombreInspeccion": "Piscina comunitaria (Castilla-La Mancha) — Decreto 72/2017",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_LA_MANCHA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 72/2017, de 10 de octubre",
+    "articulo": "DOCM nº205, 23/10/2017",
+    "urlOficial": "https://docm.castillalamancha.es/portaldocm/descargarArchivo.do?ruta=2017/10/23/pdf/2017_12465.pdf&tipo=rutaDocm",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-CASTILLA-LEON-DEC-177-1992",
+    "nombreInspeccion": "Piscina comunitaria (Castilla y León) — Decreto 177/1992",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 177/1992, de 22 de octubre (modificado por D. 106/1997)",
+    "articulo": "Art. 3.b Decreto 177/1992",
+    "urlOficial": "https://bocyl.jcyl.es",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 15000.0,
+    "riesgoAdicional": "Cierre cautelar por Servicio Territorial de Sanidad. Responsabilidad civil del titular."
+  },
+  {
+    "codigoNorma": "PISCINA-CEUTA-REG-2002",
+    "nombreInspeccion": "Piscina comunitaria (Ceuta) — Reglamento 2002",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "CEUTA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Reglamento regulador de las condiciones higiénico-sanitarias de las piscinas de uso colectivo, de 13 de septiembre de 2002",
+    "articulo": "BOCCE",
+    "urlOficial": null,
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-EXTREMADURA-DEC-254-2015",
+    "nombreInspeccion": "Piscina comunitaria (Extremadura) — Decretos 102/2012 + 254/2015",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "EXTREMADURA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 102/2012 mod. por Decreto 254/2015",
+    "articulo": "Reglamento Sanitario Piscinas Extremadura",
+    "urlOficial": "https://doe.juntaex.es/pdfs/doe/2015/2390o/15040206.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-GALICIA-DEC-119-2019",
+    "nombreInspeccion": "Piscina comunitaria (Galicia) — Decreto 119/2019",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "GALICIA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 119/2019 (Reglamento Sanitario Piscinas de Galicia)",
+    "articulo": "DOG",
+    "urlOficial": "https://www.xunta.gal/dog/Publicados/2019/20190930/AnuncioG0424-190919-0003_es.html",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-LA-RIOJA-DEC-25-2010",
+    "nombreInspeccion": "Piscina comunitaria (La Rioja) — Decretos 2/2005 + 37/2008 + 25/2010",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 2/2005 mod. por D. 37/2008 y D. 25/2010",
+    "articulo": "BOR",
+    "urlOficial": "https://ias1.larioja.org/boletin/Bor_Boletin_visor_Servlet?referencia=1069817-1-PDF-489357",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-MELILLA-DEC-70-2017",
+    "nombreInspeccion": "Piscina comunitaria (Melilla) — Decreto 70/2017",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "MELILLA"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 70/2017 (Reglamento Sanitario Piscinas de Melilla)",
+    "articulo": "BOME",
+    "urlOficial": "https://www.melilla.es/melillaportal/RecursosWeb/DOCUMENTOS/1/1_17141_1.pdf",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "PISCINA-PAIS-VASCO-DEC-208-2004",
+    "nombreInspeccion": "Piscina comunitaria (País Vasco) — Decretos 32/2003 + 208/2004",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Decreto 32/2003 mod. por Decreto 208/2004",
+    "articulo": "BOPV",
+    "urlOficial": "https://www.euskadi.eus/contenidos/decreto/bopv200406058/es_def/",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "RD-1027-2007-RITE-IT424-INSPECCION-PERIODICA",
+    "nombreInspeccion": "Inspección periódica instalación térmica (>70kW)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 48,
+    "normativaReferencia": "RD 1027/2007 RITE (modif. RD 178/2021)",
+    "articulo": "IT 4.2.4",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Precintado de la instalación térmica."
+  },
+  {
+    "codigoNorma": "RD-1523-1999-GASOLEO-OCA-10A",
+    "nombreInspeccion": "Inspección periódica depósito de gasóleo",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "RD 1523/1999 + ITC MI-IP 03",
+    "articulo": "ITC MI-IP 03, Art. 7",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21628",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Precintado de la instalación. Riesgo medioambiental."
+  },
+  {
+    "codigoNorma": "RD-1644-2008-CTE-DB-SUA2-PUERTA-GARAJE-ANUAL",
+    "nombreInspeccion": "Revisión anual puerta garaje automática",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 1644/2008 + UNE-EN 12635",
+    "articulo": "CTE DB-SUA 2",
+    "urlOficial": "https://www.boe.es/eli/es/rd/2008/10/10/1644",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Responsabilidad civil del administrador en caso de accidente."
+  },
+  {
+    "codigoNorma": "RD-203-2016-PLATAFORMA-MANT-SEMESTRAL",
+    "nombreInspeccion": "Plataforma vertical / salvaescaleras — Mantenimiento semestral",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 6,
+    "normativaReferencia": "UNE-EN 81-40 (salvaescaleras inclinados) + UNE-EN 81-41 (plataformas verticales) + RD 1215/1997 (equipos de trabajo)",
+    "articulo": "UNE-EN 81-40 Anexo F (mantenimiento) + UNE-EN 81-41 apdo. 12 (inspecciones)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-5029",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Retirada de la plataforma de servicio. Queja de usuarios con movilidad reducida."
+  },
+  {
+    "codigoNorma": "RD-3-2023-ALJIBES-LIMPIEZA-ANUAL",
+    "nombreInspeccion": "Limpieza y desinfección anual de depósitos de agua de consumo humano",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 3/2023 calidad del agua de consumo humano (sustituye RD 140/2003)",
+    "articulo": "RD 3/2023 arts. 14-16 (autocontrol y mantenimiento de instalaciones interiores) + Anexo V (limpieza y desinfección)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-628",
+    "sancionMinEur": 2000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Contaminación microbiológica del agua de consumo: riesgo sanitario grave, posible cierre cautelar de la instalación, responsabilidad solidaria de la comunidad con el titular del punto de suministro."
+  },
+  {
+    "codigoNorma": "RD-314-2006-CTE-DB-HS3-VENTILACION-LIMPIEZA",
+    "nombreInspeccion": "Limpieza anual de conductos de ventilación comunes",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 314/2006 CTE DB-HS 3 + RD 1027/2007 RITE (IT 3)",
+    "articulo": "CTE DB-HS 3 (Calidad del aire interior) — Tabla 8.1 de operaciones de mantenimiento + RITE IT 3 (operación B8: limpieza de conductos)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "sancionMinEur": 60000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Acumulación de partículas y grasas en conductos aumenta el riesgo de propagación de incendio y reduce la calidad del aire (riesgo sanitario). Posible anulación de la cobertura del seguro por falta de mantenimiento documentado."
+  },
+  {
+    "codigoNorma": "RD-337-2014-RAT-CT-OCA-3A",
+    "nombreInspeccion": "Centro de transformación — Inspección OCA trienal",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 36,
+    "normativaReferencia": "RD 337/2014 Reglamento de Alta Tensión (RAT)",
+    "articulo": "Art. 24",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-6084",
+    "sancionMinEur": 6000.0,
+    "sancionMaxEur": 90000.0,
+    "riesgoAdicional": "Corte de suministro al edificio. Posible responsabilidad civil por accidente eléctrico."
+  },
+  {
+    "codigoNorma": "RD-346-2011-ICT-MANTENIMIENTO",
+    "nombreInspeccion": "Mantenimiento ICT (Infraestructura Común de Telecomunicaciones)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 346/2011 (Reglamento ICT) + Ley 9/2014 General de Telecomunicaciones",
+    "articulo": "RD 346/2011 Anexo IV (Plan de mantenimiento) + arts. 45-46 (responsabilidades de la propiedad del edificio)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-5834",
+    "sancionMinEur": 500.0,
+    "sancionMaxEur": 50000.0,
+    "riesgoAdicional": "Averías en TV/FM, telefonía y fibra óptica por falta de mantenimiento. La comunidad es responsable subsidiaria de las averías en la ICT comunitaria."
+  },
+  {
+    "codigoNorma": "RD-355-2024-ASCENSOR-OCA-GENERAL-4A",
+    "nombreInspeccion": "Inspección periódica OCA ascensor",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 48,
+    "normativaReferencia": "RD 355/2024 (ITC AEM 1, sustituye al RD 88/2013)",
+    "articulo": "Art. 3, Anexo II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-7258",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Precintado del ascensor por Industria. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "RD-355-2024-ASCENSOR-OCA-PEQUENO-6A",
+    "nombreInspeccion": "Inspección periódica OCA ascensor (edificios pequeños, 6 años)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 72,
+    "normativaReferencia": "RD 355/2024 (ITC AEM 1, sustituye al RD 88/2013)",
+    "articulo": "Art. 3, Anexo II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-7258",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Precintado del ascensor por Industria. Responsabilidad civil del administrador."
+  },
+  {
+    "codigoNorma": "RD-355-2024-ASCENSOR-OCA-PUBLICA-2A",
+    "nombreInspeccion": "Inspección periódica OCA ascensor (pública concurrencia, 2 años)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 24,
+    "normativaReferencia": "RD 355/2024 (ITC AEM 1, sustituye al RD 88/2013)",
+    "articulo": "Art. 3, Anexo II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-7258",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Precintado del ascensor. Cierre al público del local."
+  },
+  {
+    "codigoNorma": "RD-390-2021-CEE-RENOVACION-10A",
+    "nombreInspeccion": "Renovación del Certificado de Eficiencia Energética",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "RD 390/2021",
+    "articulo": "Art. 11 RD 390/2021",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9176",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Imposibilidad de vender o alquilar viviendas de la comunidad. Sanción al vendedor/arrendador."
+  },
+  {
+    "codigoNorma": "RD-487-2022-LEGIONELLA-ANALISIS-ANUAL",
+    "nombreInspeccion": "Análisis anual de Legionella (laboratorio acreditado)",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 487/2022 (mod. RD 614/2024)",
+    "articulo": "Anexo III, Parte B; Art. 8",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10297",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Cierre cautelar de la instalación. Responsabilidad penal en caso de brote."
+  },
+  {
+    "codigoNorma": "RD-487-2022-LEGIONELLA-LIMPIEZA-ACS",
+    "nombreInspeccion": "Limpieza y desinfección ACS (prevención legionella)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 487/2022 (mod. RD 614/2024)",
+    "articulo": "Anexo III, Parte B",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10297",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Cierre cautelar de la instalación. Responsabilidad penal en caso de brote con víctimas."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-ALUMBRADO-EMERG-ANUAL",
+    "nombreInspeccion": "Revisión anual alumbrado de emergencia (empresa mantenedora)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI Anexo II + CTE DB-SUA 4 + RD 842/2002 REBT",
+    "articulo": "RIPCI Tabla II Apéndice 2 (programa anual de mantenimiento de alumbrado de emergencia)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 60000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Incumplimiento del CTE DB-SUA 4 (seguridad de utilización). Sanción por vía industrial (Ley 21/1992) y por vía PCI (Ley 31/1995 PRL si aplica). Posible cierre cautelar en inspecciones municipales."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-BIE-ANUAL",
+    "nombreInspeccion": "BIE — Revisión anual (empresa mantenedora)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI + RD 298/2021 + UNE-EN 671-3",
+    "articulo": "Anexo II tabla II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Pérdida de cobertura de seguro. Posible responsabilidad civil por manguera no operativa."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-BIE-HIDRAULICA-5A",
+    "nombreInspeccion": "BIE — Prueba hidráulica quinquenal",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 513/2017 RIPCI + RD 298/2021 + UNE-EN 671-3",
+    "articulo": "Anexo II tabla III",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Sustitución obligatoria de manguera a los 20 años (vida útil máxima tras RD 298/2021)."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-BIE-TRIMESTRAL",
+    "nombreInspeccion": "BIE — Revisión trimestral (empresa mantenedora)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 3,
+    "normativaReferencia": "RD 513/2017 RIPCI + RD 298/2021 (mod. vida útil mangueras) + UNE-EN 671-3",
+    "articulo": "Anexo II tabla I",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Pérdida de cobertura del seguro del edificio en caso de incendio."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-COLUMNA-SECA-ANUAL",
+    "nombreInspeccion": "Columna seca — Revisión anual",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI + CTE DB-SI 4",
+    "articulo": "Anexo II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Imposibilidad de uso por bomberos en caso de incendio."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-DETECCION-AUTO-ANUAL",
+    "nombreInspeccion": "Detección automática — Revisión anual",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI + UNE 23007-14",
+    "articulo": "Anexo II tabla II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Responsabilidad civil si el sistema falla y hay víctimas o daños."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-DETECCION-AUTO-TRIMESTRAL",
+    "nombreInspeccion": "Detección automática — Revisión trimestral",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 3,
+    "normativaReferencia": "RD 513/2017 RIPCI + UNE 23007-14",
+    "articulo": "Anexo II tabla I",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Alarma silenciada por falta de mantenimiento en caso de incendio."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-EXTINTORES-RETIMBRADO-5A",
+    "nombreInspeccion": "Retimbrado de extintores (prueba de presión)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 513/2017 RIPCI (modificado por RD 164/2025)",
+    "articulo": "Tabla II, Apéndice 2",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Extintor fuera de servicio legal. Sin cobertura de seguro."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-EXTINTORES-REVISION-ANUAL",
+    "nombreInspeccion": "Revisión anual de extintores (empresa mantenedora)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI (modificado por RD 164/2025)",
+    "articulo": "Tabla I, Apéndice 2",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 300.0,
+    "sancionMaxEur": 6000.0,
+    "riesgoAdicional": "Invalidación de cobertura del seguro en caso de incendio."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-HIDRANTES-ANUAL",
+    "nombreInspeccion": "Hidrantes exteriores — Revisión anual",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI",
+    "articulo": "Anexo II",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Indisponibilidad de abastecimiento de agua para bomberos."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-PCI-GARAJE-OCA-10A",
+    "nombreInspeccion": "Inspección periódica OCA protección contra incendios garaje",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "RD 513/2017 RIPCI art. 22 (modificado por RD 164/2025)",
+    "articulo": "Art. 22",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Clausura del garaje por Industria."
+  },
+  {
+    "codigoNorma": "RD-513-2017-RIPCI-SENAL-FOTOL-ANUAL",
+    "nombreInspeccion": "Revisión anual de señalización fotoluminiscente de evacuación",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 513/2017 RIPCI + UNE 23033-1:2019 + UNE 23035 (fotoluminiscencia)",
+    "articulo": "RIPCI Anexo II (mantenimiento de sistemas de evacuación y señalización) + UNE 23033-1 (identificación) + UNE 23035-4 (inspección y mantenimiento de productos fotoluminiscentes)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancionMinEur": 60000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Pérdida de capacidad luminiscente por deterioro o suciedad: en evacuación nocturna sin suministro eléctrico, la señalización no guía a los ocupantes. Responsabilidad penal subsidiaria si hay víctimas."
+  },
+  {
+    "codigoNorma": "RD-732-2019-CTE-DB-SI-PUERTAS-CF",
+    "nombreInspeccion": "Revisión anual de puertas cortafuegos (EI)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 732/2019 CTE DB-SI 1 + UNE 23740-1:2016",
+    "articulo": "CTE DB-SI 1 (Compartimentación en sectores de incendio) + UNE 23740-1:2016 (Mantenimiento de puertas resistentes al fuego)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-19375",
+    "sancionMinEur": 60000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Pérdida de certificación EI en caso de incendio. Responsabilidad civil y penal del administrador. Posible pérdida de cobertura del seguro."
+  },
+  {
+    "codigoNorma": "RD-742-2013-PISCINA-CONTROL-AGUA-TRIMESTRAL",
+    "nombreInspeccion": "Control de calidad del agua de piscina (trimestral — laboratorio)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 3,
+    "normativaReferencia": "RD 742/2013 + normativa autonómica",
+    "articulo": "Art. 6 RD 742/2013; Anexo I",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10580",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Sanción sanitaria."
+  },
+  {
+    "codigoNorma": "RD-742-2013-PISCINA-REVISION-ANUAL",
+    "nombreInspeccion": "Revisión anual piscina comunitaria (inicio temporada)",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "RD 742/2013 + normativa autonómica",
+    "articulo": "RD 742/2013; normativa CCAA aplicable",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10580",
+    "sancionMinEur": 1000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Clausura de la piscina. Responsabilidad civil por accidente."
+  },
+  {
+    "codigoNorma": "RD-830-2010-DDD-SEMESTRAL",
+    "nombreInspeccion": "Tratamiento DDD semestral (desinfección, desinsectación y desratización)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 6,
+    "normativaReferencia": "RD 830/2010 de formación de servicios biocidas + RD 1054/2002 evaluación biocidas + Ley 33/2011 General de Salud Pública",
+    "articulo": "RD 830/2010 (formación de aplicadores y servicios) + normativa autonómica de sanidad ambiental",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-10704",
+    "sancionMinEur": 2000.0,
+    "sancionMaxEur": 600000.0,
+    "riesgoAdicional": "Plagas de roedores, cucarachas o insectos en zonas comunes generan riesgo sanitario (Ley 33/2011) y son denunciables por vecinos ante el servicio municipal de sanidad. Posible clausura temporal del local afectado."
+  },
+  {
+    "codigoNorma": "RD-842-2002-REBT-ITC-BT-52-RECARGA-VE-OCA-5A",
+    "nombreInspeccion": "Infraestructura de recarga VE — Inspección OCA quinquenal",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 842/2002 REBT ITC-BT-52 (modif. RD 1053/2014 y RD 298/2021)",
+    "articulo": "ITC-BT-52 apdo. 8",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro al punto de recarga. Posible daño en vehículos por instalación no conforme."
+  },
+  {
+    "codigoNorma": "RD-842-2002-REBT-OCA-5A",
+    "nombreInspeccion": "Inspección periódica OCA baja tensión zonas comunes (>100 kW, 10 años)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 120,
+    "normativaReferencia": "RD 842/2002 REBT",
+    "articulo": "ITC-BT-05, Art. 4.1",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro eléctrico por la distribuidora."
+  },
+  {
+    "codigoNorma": "RD-842-2002-REBT-OCA-GARAJE-5A",
+    "nombreInspeccion": "Inspección periódica OCA baja tensión garaje (>25 kW)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 842/2002 REBT",
+    "articulo": "ITC-BT-05, Tabla 1",
+    "urlOficial": "https://www.boe.es/eli/es/rd/2002/08/02/842/con",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro eléctrico al garaje por la distribuidora."
+  },
+  {
+    "codigoNorma": "RD-842-2002-REBT-OCA-PISCINA-5A",
+    "nombreInspeccion": "Inspección periódica OCA baja tensión piscina (>10 kW)",
+    "tipoInspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 842/2002 REBT",
+    "articulo": "ITC-BT-05 + ITC-BT-31",
+    "urlOficial": "https://www.boe.es/eli/es/rd/2002/08/02/842/con",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro a la zona de piscina."
+  },
+  {
+    "codigoNorma": "RD-919-2006-ICG07-GAS-COMUNITARIO-OCA",
+    "nombreInspeccion": "Inspección periódica instalación de gas comunitaria",
+    "tipoInspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 60,
+    "normativaReferencia": "RD 919/2006 (ITC-ICG 07, modificado por RD 542/2020 y RD 984/2015)",
+    "articulo": "ITC-ICG 07, Art. 8",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-11473",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 60000.0,
+    "riesgoAdicional": "Corte de suministro de gas por la distribuidora."
+  },
+  {
+    "codigoNorma": "RD1027_2007_RITE_IT33",
+    "nombreInspeccion": "Mantenimiento térmica por empresa mantenedora (>70 kW)",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 1,
+    "normativaReferencia": "RD 1027/2007 RITE (modif. RD 178/2021)",
+    "articulo": "IT 3.3 + Tabla 3.1 (Programa de mantenimiento preventivo)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Pérdida de eficiencia y rendimiento. Riesgo de avería en plena temporada. Responsabilidad del titular en caso de accidente por mantenimiento deficiente. Sanción industrial."
+  },
+  {
+    "codigoNorma": "RD355_2024_ITC_AEM1_ART11",
+    "nombreInspeccion": "Mantenimiento del ascensor por empresa conservadora",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 1,
+    "normativaReferencia": "RD 355/2024 ITC AEM 1 (sustituye al RD 88/2013)",
+    "articulo": "Art. 11.a y Anexo VI",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2024-7258",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 30000.0,
+    "riesgoAdicional": "Sin contrato de mantenimiento vigente la empresa conservadora paraliza el ascensor. Responsabilidad civil del administrador en caso de accidente. Pérdida de cobertura del seguro."
+  },
+  {
+    "codigoNorma": "REG-UE-517-2014-FGAS-ANUAL",
+    "nombreInspeccion": "Control anual de fugas en equipos con gases fluorados",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Reglamento UE 2024/573 (sustituye Reg. UE 517/2014) + RD 115/2017",
+    "articulo": "Reg. UE 517/2014 art. 4 (controles de fugas) + RD 115/2017 (desarrollo nacional)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-1844",
+    "sancionMinEur": 3000.0,
+    "sancionMaxEur": 2000000.0,
+    "riesgoAdicional": "Multas hasta 2 M€ por vía ambiental. Responsabilidad solidaria titular–empresa mantenedora. Posible retirada del equipo por inspección industrial."
+  }
+]
