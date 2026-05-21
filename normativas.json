@@ -1465,5 +1465,21 @@
     "sancionMinEur": 300.0,
     "sancionMaxEur": 3005.0,
     "riesgoAdicional": "Sin contrato de mantenimiento vigente la empresa conservadora paraliza el ascensor. Responsabilidad civil del administrador en caso de accidente. Pérdida de cobertura del seguro."
+  },
+  {
+    "codigoNorma": "REG-UE-517-2014-FGAS-ANUAL",
+    "nombreInspeccion": "Control anual de fugas en equipos con gases fluorados",
+    "tipoInspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidadMeses": 12,
+    "normativaReferencia": "Reglamento UE 2024/573 (sustituye Reg. UE 517/2014) + RD 115/2017",
+    "articulo": "Reg. UE 517/2014 art. 4 (controles de fugas) + RD 115/2017 (desarrollo nacional)",
+    "urlOficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-1844",
+    "sancionMinEur": 600.0,
+    "sancionMaxEur": 5000.0,
+    "riesgoAdicional": "Multas hasta 2 M€ por vía ambiental. Responsabilidad solidaria titular–empresa mantenedora. Posible retirada del equipo por inspección industrial."
   }
 ]
