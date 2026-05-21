@@ -29,7 +29,7 @@ Si usas estos datos, cita la fuente: **FincasAlDía** (https://fincasaldia.es)
 
 Los datos se obtienen de boletines oficiales estatales y autonómicos.
 Las URLs oficiales están incluidas en el campo `url_oficial`.
-Última actualización: Mayo 2026.
+Última actualización: 21 de mayo de 2026.
 
 ## Contacto
 
