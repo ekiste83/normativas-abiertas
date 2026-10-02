@@ -10,10 +10,9 @@ Aquí solo se anotan los cambios de formato.
   del motor de septiembre y octubre de 2026: filas nuevas, filas retiradas por estar
   derogadas o duplicadas, periodicidades y sanciones corregidas contra el texto
   oficial.
-- **Cambio de formato en `normativas.json`:** los campos pasan a `snake_case` y se
-  llaman igual que en la descarga de la web (`codigo_norma`, `nombre_inspeccion`,
-  `tipo_inspeccion`, `url_oficial`, `sancion_min_eur`…). `municipio` es ahora una
-  lista. El CSV mantiene sus columnas.
+- **Cambio de formato en `normativas.json`:** los campos pasan a `snake_case`
+  (`codigo_norma`, `nombre_inspeccion`, `tipo_inspeccion`, `url_oficial`,
+  `sancion_min_eur`…). `municipio` es ahora una lista. El CSV mantiene sus columnas.
 - Filas ordenadas por `codigo_norma`, para que los cambios se lean bien en el
   historial.
 - Archivo `LICENSE` con el texto de CC BY-SA 4.0, `CITATION.cff` y actualización
