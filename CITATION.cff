@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cita la fuente."
+type: dataset
+title: "Inspecciones obligatorias en comunidades de propietarios — datos abiertos"
+authors:
+  - name: "FincasAlDía"
+    website: "https://fincasaldia.es"
+license: CC-BY-SA-4.0
+url: "https://fincasaldia.es/recursos/normativas-abiertas/"
+repository-code: "https://github.com/ekiste83/normativas-abiertas"
+keywords:
+  - datos abiertos
+  - comunidad de propietarios
+  - inspecciones obligatorias
+  - ITE
+  - normativa
+  - España
