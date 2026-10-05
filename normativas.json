@@ -80,6 +80,38 @@
     "riesgo_adicional": "Sin el control no queda verificado que la empresa mantenedora y las inspecciones de eficiencia se hayan hecho, ni que los consumos registrados sean coherentes con la instalación."
   },
   {
+    "codigo_norma": "DEC-10-2014-MADRID-RITE-CONTROL-12A-CLIMATIZACION",
+    "nombre_inspeccion": "Control de la inspección de eficiencia energética del aire acondicionado o bomba de calor comunitarios (más de 70 kW, cada 12 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 144,
+    "normativa_referencia": "Decreto 10/2014 de la Comunidad de Madrid (inspecciones periódicas de eficiencia energética de instalaciones térmicas)",
+    "articulo": "Arts. 2.b, 3, 9, 10, 11 y 13 del D 10/2014",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2014/02/10/BOCM-20140210-1.PDF",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin el control no queda verificado que la empresa mantenedora y las inspecciones de eficiencia se hayan hecho, ni que los consumos registrados sean coherentes con la instalación."
+  },
+  {
+    "codigo_norma": "DEC-10-2014-MADRID-RITE-INSPECCION-2A-OTROS-COMBUSTIBLES",
+    "nombre_inspeccion": "Inspección de eficiencia energética de la calefacción o el agua caliente de gasóleo (más de 70 kW, cada 2 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 24,
+    "normativa_referencia": "Decreto 10/2014 de la Comunidad de Madrid (inspecciones periódicas de eficiencia energética de instalaciones térmicas)",
+    "articulo": "Arts. 3, 6.1, 8.2 y 13 del D 10/2014",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2014/02/10/BOCM-20140210-1.PDF",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
     "codigo_norma": "DEC-102-2015-LEY-11-2018-EXTREMADURA-ITE",
     "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Extremadura)",
     "tipo_inspeccion": "ITE",
@@ -144,6 +176,38 @@
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
   },
   {
+    "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-100KW",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con empresa mantenedora (más de 100 kW)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
+    "articulo": "ITA-12, art. 16.5, del annex 2 del D 192/2023; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
+    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 100000,
+    "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
+  },
+  {
+    "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-GARAJE",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión del garaje con empresa mantenedora (25 plazas o más)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
+    "articulo": "ITA-12, arts. 3.1, 3.3.c y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.g y h",
+    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 100000,
+    "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación del garaje entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
+  },
+  {
     "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-MANT",
     "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con empresa mantenedora (20 suministros o más)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -160,8 +224,24 @@
     "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
   },
   {
+    "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-PISCINA",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión de la piscina con empresa mantenedora (más de 10 kW)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
+    "articulo": "ITA-12, arts. 3.3.e y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.n",
+    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 100000,
+    "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación eléctrica de la piscina, una zona con agua, entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
+  },
+  {
     "codigo_norma": "DEC-192-2023-CAT-BT-ENLLAC-OCA-10A",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace (20 suministros o más, cada 10 años)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace y servicios generales (20 suministros o más, cada 10 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
@@ -763,7 +843,49 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenança d'Avaluació d'Edificis de Maó, text refós (BOIB nº 58, 7/05/2026)",
     "articulo": "Arts. 2.1, 3.5, 4, 5.A y 11; disposiciones transitorias 1.ª y 2.ª",
-    "url_oficial": "https://www.caib.es/eboibfront/eli/es-ib-01070321/odnz/2026/05/07/(1)/dof/spa/pdf",
+    "url_oficial": "https://www.caib.es/eboibfront/eli/es-ib-01070321/odnz/2026/05/07/(1)/dof/spa/html",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 30000,
+    "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+  },
+  {
+    "codigo_norma": "ORD-SA-POBLA-IEE-30A",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Sa Pobla (desde 30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": [
+      "La Puebla",
+      "Pobla (sa)",
+      "Pobla, sa",
+      "Sa Pobla"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenança municipal sobre l'informe d'avaluació d'edificis de l'Ajuntament de sa Pobla (BOIB nº 125, 18/09/2025)",
+    "articulo": "Arts. 2, 3.2, 4, 9.A y 14; disposición transitoria y disposición final",
+    "url_oficial": "https://www.caib.es/eboibfront/pdf/ca/2025/125/1200772",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 30000,
+    "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+  },
+  {
+    "codigo_norma": "ORD-SANT-JOSEP-IEE-30A",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Sant Josep de sa Talaia (desde 30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": [
+      "San José",
+      "San José de Ibiza",
+      "Sant Josep",
+      "Sant Josep de sa Talaia"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza municipal reguladora de los informes de evaluación de edificios de Sant Josep de sa Talaia (BOIB nº 52, 23/04/2026)",
+    "articulo": "Arts. 2, 3.2, 4, 8.1.A y 12; disposiciones transitorias 1.ª y 2.ª",
+    "url_oficial": "https://www.caib.es/eboibfront/eli/es-ib-01070488/odnz/2026/04/23/(1)/dof/spa/html",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
     "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
@@ -803,6 +925,22 @@
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
     "riesgo_adicional": "Hasta tres multas coercitivas de 600 € y ejecución subsidiaria de la inspección (art. 38 de la ordenanza). Si se ordenan obras y no se hacen: multas coercitivas de hasta el 10 % del coste de las obras cada una y ejecución subsidiaria (arts. 258.2 y 259 TRLUA)."
+  },
+  {
+    "codigo_norma": "ORDEN-22-07-2008-PV-RITE-INSPECCION-70KW",
+    "nombre_inspeccion": "Inspección periódica de la calefacción o el agua caliente central de 70 kW o menos (País Vasco; a los 10 años y después cada 5)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "Orden de 22 de julio de 2008 del País Vasco (inspecciones periódicas de instalaciones térmicas)",
+    "articulo": "Art. 5.8 y anexo 8",
+    "url_oficial": "https://www.euskadi.eus/bopv2/datos/2008/09/0805355a.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
   },
   {
     "codigo_norma": "PISCINA-ARAGON-DEC-119-2006",
@@ -1027,6 +1165,22 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Sin mantenimiento, el equipo pierde rendimiento y seguridad."
+  },
+  {
+    "codigo_norma": "RD-1027-2007-RITE-IT33-SOLAR-TERMICA",
+    "nombre_inspeccion": "Mantenimiento de la instalación solar térmica comunitaria (empresa mantenedora; cada 6 meses o cada año)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 6,
+    "normativa_referencia": "RD 1027/2007 RITE (IT 3.3, tabla 3.1) y CTE DB-HE 4",
+    "articulo": "RITE, arts. 26.7 y 43, e IT 3.3 (tabla 3.1); CTE, Parte I, art. 15 (HE 4) y disp. transitoria tercera",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 60000,
+    "riesgo_adicional": "Sin mantenimiento, la instalación solar pierde rendimiento y sus averías pasan desapercibidas: el agua caliente acaba dependiendo solo del equipo de apoyo."
   },
   {
     "codigo_norma": "RD-1027-2007-RITE-IT422-INSPECCION-CLIMATIZACION",
@@ -1765,6 +1919,22 @@
     "riesgo_adicional": "La revisión es la que desmonta y comprueba los limitadores de presión y los elementos de seguridad, y revisa recipientes, tuberías y detectores de fugas (RSIF, IF-14, 2.2)."
   },
   {
+    "codigo_norma": "RD-732-2019-CTE-DB-HS6-RADON-MANTENIMIENTO",
+    "nombre_inspeccion": "Mantenimiento de la protección frente al radón (limpieza anual de conductos, aberturas y extractores)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "RD 732/2019 (CTE DB-HS 6, protección frente a la exposición al radón)",
+    "articulo": "CTE DB-HS 6, apartados 1, 3.1 y 6 (tabla 6.1) y apéndice B; disp. transitorias 2.ª y 3.ª del RD 732/2019",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-18528",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "El radón es un gas radiactivo natural que entra desde el terreno; si los conductos o los extractores del sistema no se mantienen, deja de evacuarse y se acumula en los locales habitables de las plantas en contacto con el terreno."
+  },
+  {
     "codigo_norma": "RD-742-2013-PISCINA-REVISION-ANUAL",
     "nombre_inspeccion": "Piscina comunitaria: repaso de obligaciones sanitarias antes de la temporada",
     "tipo_inspeccion": "REVISION",
@@ -1879,7 +2049,7 @@
   },
   {
     "codigo_norma": "RD-842-2002-REBT-OCA-100KW-CATALUNA",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (más de 100 kW, cada 10 años)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace y servicios generales (más de 100 kW, cada 10 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
@@ -1887,7 +2057,7 @@
     "municipio": null,
     "periodicidad_meses": 120,
     "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Decret 192/2023 de Catalunya, ITA-12",
-    "articulo": "ITC-BT-05, apdo. 4.2",
+    "articulo": "ITC-BT-05, apdo. 4.2; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
