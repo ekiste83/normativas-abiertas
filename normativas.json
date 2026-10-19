@@ -1,15 +1,251 @@
 [
   {
+    "codigo_norma": "ACCES-CAT-D209-2023-ENTRADA-ASC-9A16",
+    "nombre_inspeccion": "Accesibilidad: itinerario practicable entre la entrada y el ascensor (de 9 a 16 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.3.b",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-ENTRADA-ASC-MAS16",
+    "nombre_inspeccion": "Accesibilidad: itinerario practicable entre la entrada y el ascensor (más de 16 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.4.a",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "El plazo venció el 28/02/2025: si la medida se puede hacer, ya es exigible."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-GRAO-HASTA8",
+    "nombre_inspeccion": "Accesibilidad: rampa en el escalón entre la calle y el ascensor (hasta 8 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.2.a",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-GRAO-MAS8",
+    "nombre_inspeccion": "Accesibilidad: rampa en el escalón entre la calle y el ascensor (más de 8 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.3.a",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "El plazo venció el 28/02/2025: si la medida se puede hacer, ya es exigible."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-PROYECTO-ELEVADOR",
+    "nombre_inspeccion": "Accesibilidad: proyecto para instalar un aparato elevador (más de 16 viviendas sin ascensor)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.5.a",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-PROYECTO-MAS16",
+    "nombre_inspeccion": "Accesibilidad: proyecto del itinerario entre la calle y el ascensor (más de 16 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.4.c",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-VIA-ASC-9A16",
+    "nombre_inspeccion": "Accesibilidad: itinerario practicable entre la calle y el ascensor (de 9 a 16 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.3.c",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "ACCES-CAT-D209-2023-VIA-ASC-MAS16",
+    "nombre_inspeccion": "Accesibilidad: itinerario practicable entre la calle y el ascensor (más de 16 viviendas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
+    "articulo": "Art. 34.3; annex 3e, apartado 4.4.b",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-1942-1953",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios de 1942 a 1953)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-1954-1962",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios de 1954 a 1962)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-1963-1969",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios de 1963 a 1969)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-1970-1980",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios de 1970 a 1980)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-DESDE-1981",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios desde 1981)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-ITLD-HASTA-1941",
+    "nombre_inspeccion": "Informe de localización y diagnóstico del amianto (ITLD) en Salamanca (edificios hasta 1941)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4 y 5 y anexo II",
+    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
     "codigo_norma": "CANARIAS-AGUA-ANTERIOR-2011-REVISION-5A",
-    "nombre_inspeccion": "Revisión de las instalaciones comunes de agua (cada 5 años, instalaciones anteriores a julio de 2011)",
+    "nombre_inspeccion": "Revisión de las instalaciones de agua (cada 5 años, instalaciones de 1996 a julio de 2011)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "CANARIAS"
     ],
     "municipio": null,
     "periodicidad_meses": 60,
-    "normativa_referencia": "Orden de 12 de abril de 1996 (Canarias), ITA 16; Decreto 134/2011, disposición transitoria primera",
-    "articulo": "ITA 16 de la Orden de 12/04/1996; disp. transitoria primera del D 134/2011",
+    "normativa_referencia": "Orden de 12 de abril de 1996 (Canarias), ITA 16, y Orden de 25 de mayo de 2007, art. 8 (derogadas); Decreto 134/2011, disposición transitoria primera",
+    "articulo": "ITA 16 de la Orden de 12/04/1996; art. 8 de la Orden de 25/05/2007; disp. derogatoria única y disp. transitoria primera del D 134/2011",
     "url_oficial": "https://www.gobiernodecanarias.org/boc/1996/053/001.html",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -249,7 +485,7 @@
     "municipio": null,
     "periodicidad_meses": 120,
     "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió) + RD 842/2002 REBT, ITC-BT-05",
-    "articulo": "ITA-12, arts. 3.3.h, 8.1 y 8.3, del annex 2 del D 192/2023",
+    "articulo": "ITA-12, arts. 3.3.h, 8.1 y 8.3, del annex 2 del D 192/2023; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
     "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
@@ -332,8 +568,24 @@
     "articulo": "Arts. 3.3, 22, 24, 29, 34, 35 y 40-41 del DF 86/2018",
     "url_oficial": "https://www.lexnavarra.navarra.es/detalle.asp?r=50777",
     "sancion_min_eur": null,
-    "sancion_max_eur": 3005.06,
+    "sancion_max_eur": 15025.3,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
+  },
+  {
+    "codigo_norma": "GASOLEO-NAVARRA-LF-4-2022-ART-38-2",
+    "nombre_inspeccion": "Cambiar la calefacción de gasóleo antes de que se prohíba su suministro (Navarra, localidades con gas canalizado)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "NAVARRA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ley Foral 4/2022, de cambio climático y transición energética (Navarra)",
+    "articulo": "Art. 38.2",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-6402",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Desde el 30/06/2027 no se podrá cargar más gasóleo en el depósito."
   },
   {
     "codigo_norma": "IEE-BALEARES-LUIB-125",
@@ -412,7 +664,7 @@
     "articulo": "Arts. 3 y 9 del DF 108/2014",
     "url_oficial": "https://www.lexnavarra.navarra.es/detalle.asp?r=34830",
     "sancion_min_eur": 300,
-    "sancion_max_eur": 6000,
+    "sancion_max_eur": 30000,
     "riesgo_adicional": "Multas coercitivas y ejecución subsidiaria del ayuntamiento, previo apercibimiento (art. 11.2.1.d del DF 108/2014)."
   },
   {
@@ -458,7 +710,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Instrucción 1/2015 de la Dirección General de Industria y Energía de Extremadura + RD 842/2002 REBT, ITC-BT-05",
     "articulo": "Apartados primero y segundo de la Instrucción 1/2015",
-    "url_oficial": "http://industriaextremadura.juntaex.es/kamino/index.php/formularios-e-impresos2?id=13854",
+    "url_oficial": "https://doe.juntaex.es/pdfs/doe/2015/850o/15081473.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
@@ -756,6 +1008,24 @@
     "riesgo_adicional": "Un depósito de gas sin mantenimiento puede tener fugas o corrosión sin detectar."
   },
   {
+    "codigo_norma": "ORD-ALGECIRAS-ITE-40A",
+    "nombre_inspeccion": "ITE Municipal — Algeciras (40 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Algeciras"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza Municipal Reguladora de la Inspección Técnica de Edificaciones de Algeciras (BOP de Cádiz n.º 236, 12/12/2013)",
+    "articulo": "Arts. 2, 3, 4 y 7 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2013/12_diciembre/BOP236_12-12-13.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+  },
+  {
     "codigo_norma": "ORD-BCN-OMA-COMBUSTION-REVISION-ANUAL",
     "nombre_inspeccion": "Revisión y limpieza anual de la caldera comunitaria (Barcelona)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -775,7 +1045,7 @@
   },
   {
     "codigo_norma": "ORD-BCN-OUPU-CERT-SEGURETAT-15A",
-    "nombre_inspeccion": "Certificado de seguridad de fachadas — Barcelona (OUPU, cada 10 años)",
+    "nombre_inspeccion": "Certificado de seguridad de fachadas y demás elementos exteriores — Barcelona (OUPU, cada 10 años)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CATALUNA"
@@ -790,6 +1060,45 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6010.12,
     "riesgo_adicional": "Requerimiento del Ajuntament con un mes de plazo y ejecución subsidiaria de las obras a costa de la comunidad (art. 43 de la OUPU)."
+  },
+  {
+    "codigo_norma": "ORD-GIJON-ATMOSFERA-CALDERA-REMISION-ANUAL",
+    "nombre_inspeccion": "Envío anual al Ayuntamiento del justificante del mantenimiento de la caldera (Gijón)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "ASTURIAS"
+    ],
+    "municipio": [
+      "Gijón",
+      "Gijón/Xixón",
+      "Xixón"
+    ],
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Ordenanza Municipal de Protección del Medio Ambiente Atmosférico de Gijón (BOPA n.º 160, 12/07/2017)",
+    "articulo": "Arts. 13.1, 18.1, 18.4, 62 y 63",
+    "url_oficial": "https://miprincipado.asturias.es/bopa/2017/07/12/2017-07739.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 750,
+    "riesgo_adicional": "Si el Ayuntamiento pide la documentación y se presenta incompleta, defectuosa o fuera de plazo, es infracción grave, de 751 a 1.500 € (arts. 62.3.b.3 y 63.b); si no se presenta, muy grave, de 1.501 a 3.000 € (arts. 62.4.b.3 y 63.c)."
+  },
+  {
+    "codigo_norma": "ORD-JEREZ-ITE-20A",
+    "nombre_inspeccion": "ITE Municipal — Jerez de la Frontera (20 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Jerez",
+      "Jerez de la Frontera"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza de Inspección Técnica de Edificaciones de Jerez de la Frontera (BOP de Cádiz n.º 11, 19/01/2009)",
+    "articulo": "Arts. 2.1, 3, 4 y 7 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2009/01_enero/BOP011_19-01-09.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
   },
   {
     "codigo_norma": "ORD-LPGC-ATMOSFERA-COMBUSTION-REVISION-ANUAL",
@@ -821,9 +1130,9 @@
       "Madrid"
     ],
     "periodicidad_meses": 12,
-    "normativa_referencia": "Ordenanza de Gestión y Uso Eficiente del Agua en la Ciudad de Madrid (BOCM nº 146, 21/06/2006)",
+    "normativa_referencia": "Ordenanza de Gestión y Uso Eficiente del Agua en la Ciudad de Madrid (BOCM nº 146, 21/06/2006; art. 30 en la redacción del BOCM nº 83, 08/04/2011)",
     "articulo": "Arts. 30.2.a, 130.g y 135.3.a de la Ordenanza del Agua; arts. 14, 101, 106.2, 109.2 y 112.1 de la Ordenanza de Protección de la Salubridad Pública (2014)",
-    "url_oficial": "https://www.bocm.es/boletin/CM_Boletin_BOCM/2006/06/21/14600.pdf",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2011/04/08/BOCM-20110408-101.PDF",
     "sancion_min_eur": null,
     "sancion_max_eur": 750,
     "riesgo_adicional": "Una fuga en el vaso o en sus tuberías pierde agua de forma continua sin que se vea."
@@ -847,6 +1156,43 @@
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
     "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+  },
+  {
+    "codigo_norma": "ORD-MOSTOLES-PISCINA-REAPERTURA",
+    "nombre_inspeccion": "Comunicación al Ayuntamiento de la reapertura de la piscina (Móstoles)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": [
+      "Móstoles"
+    ],
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Ordenanza Municipal Reguladora de Protección de la Salubridad Pública de Móstoles (BOCM n.º 159, 06/07/2021)",
+    "articulo": "Arts. 11, 93, 95 y 96",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2021/07/06/BOCM-20210706-59.PDF",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 3005.06,
+    "riesgo_adicional": null
+  },
+  {
+    "codigo_norma": "ORD-OURENSE-IEE-30A",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Ourense (desde 30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "GALICIA"
+    ],
+    "municipio": [
+      "Orense",
+      "Ourense"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza municipal reguladora del informe de evaluación de los edificios del Ayuntamiento de Ourense (BOP de Ourense n.º 166, 01/09/2026)",
+    "articulo": "Arts. 2.6, 3, 6, 9, 12 y 13; disposiciones adicional, transitoria y derogatoria",
+    "url_oficial": "https://bop.depourense.es/portalapi/api/edicto/descargar/html/352255/es",
+    "sancion_min_eur": 300,
+    "sancion_max_eur": 6000,
+    "riesgo_adicional": "Si no se presenta en plazo, el Ayuntamiento puede encargarlo a costa de la comunidad (art. 13.2 de la ordenanza) y no concede ayudas municipales de rehabilitación (art. 13.3)."
   },
   {
     "codigo_norma": "ORD-SA-POBLA-IEE-30A",
@@ -902,7 +1248,7 @@
     ],
     "periodicidad_meses": 12,
     "normativa_referencia": "Ordenanza municipal para la ecoeficiencia y la calidad de la gestión integral del agua de Zaragoza (BOPZ nº 29, 07/02/2011)",
-    "articulo": "Arts. 28.2.c, 28.3, 28.4, 107.1.d y 108.2",
+    "articulo": "Arts. 28.2.b, 28.2.c, 28.3, 28.4, 107.1.d y 108.2",
     "url_oficial": "https://www.zaragoza.es/sede/servicio/normativa/1542",
     "sancion_min_eur": null,
     "sancion_max_eur": 750,
@@ -968,7 +1314,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 140/2009, de 11 de noviembre (Reglamento Técnico-Sanitario de Piscinas de Uso Colectivo)",
-    "articulo": "Arts. 2, 3, 16, 19, 26, 29 y anexo IX del D 140/2009; arts. 150 y 152 de la Ley 7/2019",
+    "articulo": "Arts. 2, 3, 4.1, 16, 19, 26, 29 y anexo IX del D 140/2009; arts. 150 y 152 de la Ley 7/2019",
     "url_oficial": "https://sede.asturias.es/bopa/2009/11/30/2009-27117.pdf",
     "sancion_min_eur": 3001,
     "sancion_max_eur": 60000,
@@ -1003,7 +1349,7 @@
     "articulo": "Arts. 2.2, 3.1, 16.1, 21, 22-25 y 29-30 del D 72/2008",
     "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=139989",
     "sancion_min_eur": null,
-    "sancion_max_eur": 3000,
+    "sancion_max_eur": 15000,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
   },
   {
@@ -1032,7 +1378,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Reglamento regulador de las condiciones higiénico-sanitarias de las piscinas de uso colectivo, de 13 de septiembre de 2002",
-    "articulo": "Arts. 1.2, 11.5, 17, 18, 25 y 26",
+    "articulo": "Arts. 1.2, 11.3, 11.5, 17, 18, 25 y 26",
     "url_oficial": "https://www.ceuta.es/ceuta/component/content/article/46-paginas/paginas/normativa/99-reglamento-regulador-de-las-condiciones-higienico-sanitarias-de-las-piscinas-de-uso-colectivo-de-13-de-septiembre-de-2002",
     "sancion_min_eur": 601,
     "sancion_max_eur": 6000,
@@ -1175,8 +1521,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 6,
-    "normativa_referencia": "RD 1027/2007 RITE (IT 3.3, tabla 3.1) y CTE DB-HE 4",
-    "articulo": "RITE, arts. 26.7 y 43, e IT 3.3 (tabla 3.1); CTE, Parte I, art. 15 (HE 4) y disp. transitoria tercera",
+    "normativa_referencia": "RD 1027/2007 RITE (IT 3.3, tabla 3.1)",
+    "articulo": "RITE, arts. 2.2, 2.3.d, 26.7 y 43, e IT 3.3 (tabla 3.1)",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
     "sancion_min_eur": null,
     "sancion_max_eur": 60000,
@@ -1201,6 +1547,22 @@
   {
     "codigo_norma": "RD-1027-2007-RITE-IT423-INSPECCION-COMPLETA-15A",
     "nombre_inspeccion": "Inspección de la instalación térmica completa (más de 70 kW y más de 15 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 180,
+    "normativa_referencia": "RD 1027/2007 RITE (modif. RD 178/2021)",
+    "articulo": "RITE, IT 4.2.3 e IT 4.3.3",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-15820",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación antigua sin revisar entera puede acumular defectos y pérdidas de rendimiento que no se ven en las revisiones parciales."
+  },
+  {
+    "codigo_norma": "RD-1027-2007-RITE-IT423-INSPECCION-COMPLETA-15A-CLIMATIZACION",
+    "nombre_inspeccion": "Inspección de la instalación térmica completa del aire acondicionado o bomba de calor comunitarios (más de 70 kW y más de 15 años)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "TODAS"
@@ -1275,12 +1637,12 @@
     "articulo": "RD 3/2023, art. 40",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-628",
     "sancion_min_eur": 0,
-    "sancion_max_eur": 3000,
+    "sancion_max_eur": 60000,
     "riesgo_adicional": "Un depósito sucio o mal cerrado puede contaminar el agua que beben los vecinos."
   },
   {
     "codigo_norma": "RD-314-2006-CTE-DB-HS-DESAGUES-CUBIERTA",
-    "nombre_inspeccion": "Limpieza de los desagües de la cubierta transitable (sumideros, canalones y calderetas)",
+    "nombre_inspeccion": "Limpieza de los sumideros de la cubierta transitable",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -1411,23 +1773,16 @@
     "nombre_inspeccion": "Certificado de eficiencia energética del edificio (edificios obligados a ITE)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
-      "ANDALUCIA",
       "ARAGON",
-      "ASTURIAS",
       "BALEARES",
       "CANARIAS",
-      "CANTABRIA",
-      "CASTILLA_LA_MANCHA",
-      "CASTILLA_Y_LEON",
       "CATALUNA",
       "CEUTA",
       "COMUNIDAD_VALENCIANA",
       "EXTREMADURA",
-      "GALICIA",
       "LA_RIOJA",
       "MADRID",
-      "MELILLA",
-      "MURCIA"
+      "MELILLA"
     ],
     "municipio": null,
     "periodicidad_meses": 120,
@@ -1591,8 +1946,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 6,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I + CTE DB-SI SI 4",
-    "articulo": "Anexo II, tabla I",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1623,8 +1978,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla II (redacción del RD 164/2025) + CTE DB-SI, SI 3, 8",
-    "articulo": "Anexo II, tabla II",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla II (redacción del RD 164/2025)",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla II",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1639,8 +1994,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 6,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I + CTE DB-SI, SI 3, 8",
-    "articulo": "Anexo II, tabla I",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1655,8 +2010,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 3,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I + CTE DB-SI, SI 3, 8",
-    "articulo": "Anexo II, tabla I",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1720,7 +2075,7 @@
     "municipio": null,
     "periodicidad_meses": 60,
     "normativa_referencia": "RD 513/2017 RIPCI, anexo II + RD 809/2021, Reglamento de equipos a presión, anexo III",
-    "articulo": "Anexo II, tabla II (cinco años); REP (RD 809/2021), anexo III, nota 1.ª",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla II (cinco años); REP (RD 809/2021), anexo III, nota 1.ª",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1736,7 +2091,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 513/2017 RIPCI, anexo II (redacción del RD 164/2025) + UNE 23120",
-    "articulo": "Anexo II, tabla II",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla II",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1752,7 +2107,7 @@
     "municipio": null,
     "periodicidad_meses": 3,
     "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I (redacción del RD 164/2025)",
-    "articulo": "Anexo II, tabla I",
+    "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1847,8 +2202,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla III + CTE DB-SI SI 3, apartado 7",
-    "articulo": "Anexo II, tabla III",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo I, sección 2.ª, y anexo II, tabla III (redacción del RD 164/2025)",
+    "articulo": "Anexo II, apartado 2 y tabla III; disposición transitoria segunda",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -1947,7 +2302,7 @@
     "articulo": "Arts. 2.3.a, 3.2, 5, 6, 7, 10, 13 y 14.d-f RD 742/2013",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10580",
     "sancion_min_eur": 0,
-    "sancion_max_eur": 3000,
+    "sancion_max_eur": 60000,
     "riesgo_adicional": "Un agua mal filtrada o sin desinfectante puede transmitir infecciones a los bañistas."
   },
   {
@@ -1967,6 +2322,22 @@
     "riesgo_adicional": "Un calderín que no pasa sus inspecciones puede seguir en servicio con corrosión o con la válvula de seguridad en mal estado; la inspección de nivel A comprueba la documentación, el estado visible del equipo y sus accesorios de seguridad (REP, anexo III, 2.1)."
   },
   {
+    "codigo_norma": "RD-809-2021-REP-CALDERIN-NIVEL-A-CAT-I-II",
+    "nombre_inspeccion": "Inspección de nivel A del calderín del grupo de presión, categoría I o II (empresa instaladora)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 48,
+    "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión (REP), anexo III",
+    "articulo": "RD 809/2021, REP, arts. 6 y 9.6; anexo III, tabla 1",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407#ai-3",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Un calderín que no pasa sus inspecciones puede seguir en servicio con corrosión o con la válvula de seguridad en mal estado; la inspección de nivel A comprueba la documentación, el estado visible del equipo y sus accesorios de seguridad (REP, anexo III, 2.1)."
+  },
+  {
     "codigo_norma": "RD-809-2021-REP-CALDERIN-NIVEL-B",
     "nombre_inspeccion": "Inspección de nivel B del calderín del grupo de presión (organismo de control o empresa instaladora)",
     "tipo_inspeccion": "OCA",
@@ -1975,6 +2346,22 @@
     ],
     "municipio": null,
     "periodicidad_meses": 72,
+    "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión (REP), anexo III",
+    "articulo": "RD 809/2021, REP, arts. 6 y 9.6; anexo III, tabla 1 y nota 3.ª",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407#ai-3",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "La inspección de nivel B se hace con el equipo fuera de servicio: revisa las zonas de mayor esfuerzo y corrosión, mide espesores y prueba los accesorios de seguridad (REP, anexo III, 2.2), para detectar el deterioro antes de que el calderín falle."
+  },
+  {
+    "codigo_norma": "RD-809-2021-REP-CALDERIN-NIVEL-B-CAT-I-II",
+    "nombre_inspeccion": "Inspección de nivel B del calderín del grupo de presión, categoría I o II (organismo de control o empresa instaladora)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 96,
     "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión (REP), anexo III",
     "articulo": "RD 809/2021, REP, arts. 6 y 9.6; anexo III, tabla 1 y nota 3.ª",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407#ai-3",
@@ -2230,7 +2617,7 @@
     "municipio": null,
     "periodicidad_meses": 60,
     "normativa_referencia": "RD 919/2006 (ITC-ICG 07, modificado por RD 542/2020 y RD 984/2015)",
-    "articulo": "ITC-ICG 07, apartados 4.1 y 4.2",
+    "articulo": "RD 919/2006, art. 7.2; ITC-ICG 07, apartados 4.1 y 4.2",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-15345#itcicg07",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
