@@ -294,7 +294,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 3",
     "articulo": "CTE DB-HS 3, apartado 7, tabla 7.1",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si la ventilación del garaje falla, se acumulan monóxido de carbono y óxidos de nitrógeno de los coches."
@@ -358,7 +358,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Decreto 73/2017 (Extremadura) + Ley 11/2018 (LOTUS) + RDLeg 7/2015",
     "articulo": "Arts. 2 y 5 del Decreto 73/2017; art. 167.5 LOTUS; art. 29.1 TRLSRU",
-    "url_oficial": "https://doe.juntaex.es/pdfs/doe/2017/1110o/17040081.pdf",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723#a29",
     "sancion_min_eur": 100,
     "sancion_max_eur": 3000,
     "riesgo_adicional": null
@@ -390,7 +390,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Decreto 134/2011 de Canarias (Reglamento de instalaciones interiores de suministro y evacuación de agua)",
     "articulo": "Arts. 2, 8 y 13 y disp. transitoria primera del D 134/2011",
-    "url_oficial": "https://www3.gobiernodecanarias.org/juriscan/ficha.jsp?id=65624",
+    "url_oficial": "https://www.gobiernodecanarias.org/boc/2011/122/001.html",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Fugas, roturas o inundaciones por un defecto no detectado en las tuberías comunes."
@@ -630,7 +630,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Ley 1/2019 + Decreto 61/2021 (Galicia)",
     "articulo": "Arts. 7 y 8 Ley 1/2019; Decreto 61/2021",
-    "url_oficial": "https://www.xunta.gal/dog/Publicados/2021/20210420/AnuncioG0532-130421-1_es.html",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7839",
     "sancion_min_eur": 300,
     "sancion_max_eur": 6000,
     "riesgo_adicional": null
@@ -678,7 +678,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Decreto 53/2018 (C. Valenciana) + TRLOTUP (Decreto Legislativo 1/2021)",
     "articulo": "Arts. 2 y 3 del Decreto 53/2018; art. 189 TRLOTUP",
-    "url_oficial": "https://dogv.gva.es/datos/2018/05/07/pdf/2018_4412.pdf",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90283#a1-101",
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
     "riesgo_adicional": "La conselleria puede exigir el informe con una orden de ejecución e imponer hasta cinco multas coercitivas mensuales de hasta el 20 % del coste del informe, y después encargarlo a costa de la comunidad (art. 189.6 TRLOTUP); el ayuntamiento también puede redactarlo a su costa tras un requerimiento de dos meses (art. 11.4 del Decreto 53/2018)."
@@ -774,7 +774,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Ley 7/2021 (LISTA) + Decreto 550/2022 (RLISTA)",
     "articulo": "Art. 145 LISTA; art. 323.3 RLISTA (Decreto 550/2022, BOJA nº 232 de 02/12/2022)",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-20916",
+    "url_oficial": "https://www.juntadeandalucia.es/boja/2022/232/BOJA22-232-00310-19728-01_00272914.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
     "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
@@ -924,6 +924,24 @@
     "riesgo_adicional": "Sin mantenimiento, los daños de la cubierta, las fachadas y el saneamiento crecen sin que nadie los vea; conservar el edificio es un deber de los propietarios (LOE, art. 16.1)."
   },
   {
+    "codigo_norma": "ORD_ITE_CORDOBA_2012",
+    "nombre_inspeccion": "ITE Municipal — Córdoba (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Córdoba"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza Municipal de Inspección Técnica de Edificaciones de Córdoba (texto refundido, BOP de Córdoba n.º 248, 31/12/2012)",
+    "articulo": "Arts. 1.1, 9.2, 9.3 y 9.4 de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://www.cordoba.es/sites/default/files/PDF/Ayuntamiento/ordenanzas_bandos_y_otros/ordenanzas-y-reglamentos-municipales-no-fiscales/via_publica/ordenanza_Inspec_Tecnica.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+  },
+  {
     "codigo_norma": "ORD_ITE_HUELVA_2002",
     "nombre_inspeccion": "ITE Municipal — Huelva (20 años)",
     "tipo_inspeccion": "ITE",
@@ -937,6 +955,42 @@
     "normativa_referencia": "Ordenanza Municipal de Inspección Técnica de la Edificación de Huelva (BOP de Huelva nº 65, 04/04/2014)",
     "articulo": "Arts. 1.2, 6.2 y 10 de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
     "url_oficial": "https://www.huelva.es/portal/sites/default/files/documentos/urbanismo/documentos/ordenanza_ite_2014.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+  },
+  {
+    "codigo_norma": "ORD_ITE_MALAGA_2013",
+    "nombre_inspeccion": "ITE Municipal — Málaga (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Málaga"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza Municipal de Conservación e Inspección Técnica de las Edificaciones de Málaga (BOP de Málaga n.º 225, 25/11/2013)",
+    "articulo": "Arts. 28.2, 32.2 y 32.3, disposición transitoria primera y disposiciones adicionales 1.ª y 3.ª de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://www.malaga.eu/visorcontenido/NRMDocumentDisplayer/639/DocumentoNormativa639",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+  },
+  {
+    "codigo_norma": "ORD_ITE_MARBELLA_2013",
+    "nombre_inspeccion": "ITE Municipal — Marbella (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Marbella"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza de Inspección Técnica de Edificaciones y Construcciones de Marbella (BOP de Málaga n.º 224, 22/11/2013)",
+    "articulo": "Arts. 2.1, 6.2 y 6.3 y disposición transitoria de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://urbanismo.marbella.es/images/media/attachments/documentos/ordenanzas/185_inspeccion-tecnica-de-edificio/Ordenanza_ITE.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
     "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
@@ -970,7 +1024,7 @@
     "periodicidad_meses": 6,
     "normativa_referencia": "Orden de 11 de septiembre de 2003 de la Consejería de Economía, Industria e Innovación de la Región de Murcia (mantenimiento e inspección de baja tensión)",
     "articulo": "Arts. 2.1, 4, 5.1 y 13 y anexo, apdo. 2",
-    "url_oficial": "https://www.carm.es/web/pagina?IDCONTENIDO=2258&IDTIPO=100&RASTRO=c657%24m2240",
+    "url_oficial": "https://www.borm.es/services/anuncio/ano/2003/numero/10390/pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en un local con riesgo de incendio."
@@ -986,7 +1040,7 @@
     "periodicidad_meses": 6,
     "normativa_referencia": "Orden de 11 de septiembre de 2003 de la Consejería de Economía, Industria e Innovación de la Región de Murcia (mantenimiento e inspección de baja tensión)",
     "articulo": "Arts. 2.1, 4, 5.1 y 13 y anexo, apdo. 3.b",
-    "url_oficial": "https://www.carm.es/web/pagina?IDCONTENIDO=2258&IDTIPO=100&RASTRO=c657%24m2240",
+    "url_oficial": "https://www.borm.es/services/anuncio/ano/2003/numero/10390/pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Riesgo eléctrico en una zona con agua."
@@ -1002,7 +1056,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Orden de 28 de abril de 2008 de la Consellería de Innovación e Industria (aplicación en Galicia del RD 919/2006)",
     "articulo": "Disp. adicional primera de la Orden de 28/04/2008; RD 919/2006, ITC-ICG 03, 6 y 6.1",
-    "url_oficial": "https://www.lex.gal/normativa/detalle/5587",
+    "url_oficial": "https://www.xunta.gal/dog/Publicados/2008/20080519/Anuncio207BE_es.html",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Un depósito de gas sin mantenimiento puede tener fugas o corrosión sin detectar."
@@ -1026,6 +1080,24 @@
     "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
   },
   {
+    "codigo_norma": "ORD-ANM-2011-65-MADRID-ITE",
+    "nombre_inspeccion": "ITE Municipal — Madrid (30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": [
+      "Madrid"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza de Conservación, Rehabilitación y Estado Ruinoso de las Edificaciones de Madrid (BOCM n.º 306, 26/12/2011)",
+    "articulo": "Arts. 14, 16, 21.2, 22 a 24 y 26 y disposición transitoria cuarta de la Ordenanza; art. 169 Ley 9/2001; arts. 2.2.a y 4.2 y disposiciones transitorias primera y tercera del Decreto 103/2016",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2011/12/26/BOCM-20111226-27.PDF",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 30000,
+    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución de obras (art. 169.5 y 169.6)."
+  },
+  {
     "codigo_norma": "ORD-BCN-OMA-COMBUSTION-REVISION-ANUAL",
     "nombre_inspeccion": "Revisión y limpieza anual de la caldera comunitaria (Barcelona)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -1038,7 +1110,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Ordenança del medi ambient de Barcelona (BOPB 02/05/2011)",
     "articulo": "Arts. 24-1, 29-2 y 210 de la Ordenança del medi ambient",
-    "url_oficial": "https://cido.diba.cat/normativa_local/33421/ordenanca-municipal-de-medi-ambient-ajuntament-de-barcelona",
+    "url_oficial": "https://bop.diba.cat/anuncis/antic/022011010381",
     "sancion_min_eur": 120.2,
     "sancion_max_eur": 300.51,
     "riesgo_adicional": "Una caldera sucia o mal regulada quema peor, contamina más y puede acumular hollín en el conducto de humos."
@@ -1060,6 +1132,24 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6010.12,
     "riesgo_adicional": "Requerimiento del Ajuntament con un mes de plazo y ejecución subsidiaria de las obras a costa de la comunidad (art. 43 de la OUPU)."
+  },
+  {
+    "codigo_norma": "ORD-ESTEPONA-ITE-30A",
+    "nombre_inspeccion": "ITE Municipal — Estepona (30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ANDALUCIA"
+    ],
+    "municipio": [
+      "Estepona"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza municipal reguladora de la Inspección Técnica de Edificaciones de Estepona (BOP de Málaga n.º 147, 30/07/2007)",
+    "articulo": "Arts. 2, 3, 7 y 10 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://coamalaga.es/wp-content/uploads/2026/03/ITE_Estepona.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 2999,
+    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
   },
   {
     "codigo_norma": "ORD-GIJON-ATMOSFERA-CALDERA-REMISION-ANUAL",
@@ -1193,6 +1283,25 @@
     "sancion_min_eur": 300,
     "sancion_max_eur": 6000,
     "riesgo_adicional": "Si no se presenta en plazo, el Ayuntamiento puede encargarlo a costa de la comunidad (art. 13.2 de la ordenanza) y no concede ayudas municipales de rehabilitación (art. 13.3)."
+  },
+  {
+    "codigo_norma": "ORD-PALMA-ITE-50A",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Palma (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "BALEARES"
+    ],
+    "municipio": [
+      "Palma",
+      "Palma de Mallorca"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza reguladora del informe de evaluación de los edificios de Palma (BOIB n.º 73, 16/05/2015)",
+    "articulo": "Arts. 2.1, 4.3 y 13 y disposición adicional segunda de la Ordenanza; art. 125.1 LUIB",
+    "url_oficial": "https://www.caib.es/eboibfront/pdf/es/2015/73/919372",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 30000,
+    "riesgo_adicional": "Exigencia de subsanar las deficiencias y posible realización de las obras en sustitución y a costa de los propietarios (art. 125.4 LUIB). No hacer en los plazos del informe las obras de carácter inmediato o urgente es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
   },
   {
     "codigo_norma": "ORD-SA-POBLA-IEE-30A",
@@ -1347,7 +1456,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 72/2008 mod. por Decreto 56/2009",
     "articulo": "Arts. 2.2, 3.1, 16.1, 21, 22-25 y 29-30 del D 72/2008",
-    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=139989",
+    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=154619",
     "sancion_min_eur": null,
     "sancion_max_eur": 15000,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
@@ -1411,7 +1520,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 2/2005 mod. por D. 37/2008 y D. 25/2010",
     "articulo": "Arts. 2 y 3.a y disposición adicional única",
-    "url_oficial": "https://web.larioja.org/normativa?n=372",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=649156-1-HTML-296907-X",
     "sancion_min_eur": 3005.07,
     "sancion_max_eur": 15025.3,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
@@ -1651,7 +1760,7 @@
     "periodicidad_meses": 6,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1 y DB-HS 5",
     "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1; DB-HS 5, apartado 7",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Un sumidero o un canalón atascados embalsan el agua en la cubierta, que acaba filtrándose a las viviendas de la última planta."
@@ -1667,7 +1776,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1 y DB-HS 5",
     "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1; DB-HS 5, apartado 7",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Un sumidero o un canalón atascados embalsan el agua en la cubierta, que acaba filtrándose a las viviendas de la última planta."
@@ -1683,7 +1792,7 @@
     "periodicidad_meses": 36,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1",
     "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Un desprendimiento de la fachada o del tejado puede herir a quien pase por debajo, y una grieta sin reparar deja entrar el agua."
@@ -1699,7 +1808,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 3",
     "articulo": "CTE DB-HS 3, apartado 7, tabla 7.1",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Unos conductos sucios ventilan mal: se acumulan humedad, olores y contaminantes en viviendas, trasteros y garajes."
@@ -1715,7 +1824,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 5 y DB-HS 1",
     "articulo": "CTE DB-HS 5, apartado 7; DB-HS 1, apartado 6 y tabla 6.1",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Una arqueta o un colector atascados provocan olores y retornos de aguas residuales en las plantas bajas y el garaje."
@@ -1922,6 +2031,22 @@
     "riesgo_adicional": "Una manguera deteriorada puede romperse al usar la BIE."
   },
   {
+    "codigo_norma": "RD-513-2017-RIPCI-BIE-MANGUERA-20A",
+    "nombre_inspeccion": "BIE: sustitución de las mangueras (cada 20 años)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 240,
+    "normativa_referencia": "RD 513/2017, Reglamento de instalaciones de protección contra incendios (RIPCI), en la redacción del RD 164/2025",
+    "articulo": "Anexo II, tabla II (BIE); disposición transitoria sexta.b del RD 164/2025",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una manguera envejecida puede reventar o perder estanqueidad justo cuando se necesita."
+  },
+  {
     "codigo_norma": "RD-513-2017-RIPCI-BIE-TRIMESTRAL",
     "nombre_inspeccion": "BIE — Revisión trimestral",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -2066,6 +2191,22 @@
     "riesgo_adicional": "Alarma silenciada por falta de mantenimiento en caso de incendio."
   },
   {
+    "codigo_norma": "RD-513-2017-RIPCI-DETECCION-VIDA-UTIL",
+    "nombre_inspeccion": "Detección automática: sustitución o verificación de los detectores al acabar su vida útil",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "RD 513/2017, Reglamento de instalaciones de protección contra incendios (RIPCI), en la redacción del RD 164/2025",
+    "articulo": "Anexo II, tabla II (detección); disposición transitoria sexta.b del RD 164/2025",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Un detector viejo puede no detectar el humo o dar falsas alarmas."
+  },
+  {
     "codigo_norma": "RD-513-2017-RIPCI-EXTINTORES-RETIMBRADO-5A",
     "nombre_inspeccion": "Retimbrado de extintores (prueba de presión)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -2112,6 +2253,22 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Un extintor descargado o sin presión no sirve en un incendio."
+  },
+  {
+    "codigo_norma": "RD-513-2017-RIPCI-EXTINTORES-VIDA-UTIL-20A",
+    "nombre_inspeccion": "Extintores: retirada a los 20 años de su fabricación",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 240,
+    "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión, y RD 513/2017 (RIPCI)",
+    "articulo": "Anexo III, tabla 1, nota 1.ª del RD 809/2021; RIPCI, anexo II, tabla II (retimbrado «por tres veces»)",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Un extintor fuera de su vida útil puede no funcionar o fallar al presurizarse."
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-HIDRANTES-ANUAL",
@@ -2380,7 +2537,7 @@
     "periodicidad_meses": 1,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 2",
     "articulo": "CTE DB-HS 2, apartado 3.1, tabla 3.1",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-5515",
+    "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Sin desinsectación ni desratización, el almacén de residuos atrae roedores e insectos que transmiten enfermedades."
@@ -2730,7 +2887,7 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Resolución de 16 de noviembre de 2016 de la Dirección General de Industria y Energía de Canarias + Decreto 141/2009 + RD 842/2002 REBT, ITC-BT-05",
     "articulo": "Anexos I y II de la Resolución; anexo VII, apdo. E, del D 141/2009",
-    "url_oficial": "https://www3.gobiernodecanarias.org/juriscan/ficha.jsp?id=75166",
+    "url_oficial": "https://sede.gobiernodecanarias.org/boc/boc-a-2016-230-4379.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
