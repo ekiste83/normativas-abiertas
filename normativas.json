@@ -11,8 +11,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.3.b",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -27,8 +27,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.4.a",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "El plazo venció el 28/02/2025: si la medida se puede hacer, ya es exigible."
   },
   {
@@ -43,8 +43,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.2.a",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -59,8 +59,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.3.a",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "El plazo venció el 28/02/2025: si la medida se puede hacer, ya es exigible."
   },
   {
@@ -75,8 +75,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.5.a",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -91,8 +91,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.4.c",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -107,8 +107,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.3.c",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -123,8 +123,8 @@
     "normativa_referencia": "Decret 209/2023, Codi d'accessibilitat de Catalunya (annex 3e)",
     "articulo": "Art. 34.3; annex 3e, apartado 4.4.b",
     "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=2001383&type=01",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
+    "sancion_min_eur": 301,
+    "sancion_max_eur": 300000,
     "riesgo_adicional": "Quien tenga derecho a ello puede reclamar la supresión de barreras antes de que venza el plazo (annex 3e, 1.1.b)."
   },
   {
@@ -573,7 +573,7 @@
   },
   {
     "codigo_norma": "GASOLEO-NAVARRA-LF-4-2022-ART-38-2",
-    "nombre_inspeccion": "Cambiar la calefacción de gasóleo antes de que se prohíba su suministro (Navarra, localidades con gas canalizado)",
+    "nombre_inspeccion": "Fin del suministro de gasóleo desde el 30/06/2027 (Navarra, edificios en localidades con gas canalizado)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "NAVARRA"
@@ -1030,6 +1030,22 @@
     "riesgo_adicional": "Defectos eléctricos sin detectar en un local con riesgo de incendio."
   },
   {
+    "codigo_norma": "ORD-11-09-2003-MURCIA-BT-MANT-GARAJE-6-24",
+    "nombre_inspeccion": "Mantenimiento eléctrico del garaje por instalador autorizado (de 6 a 24 plazas, a confirmar; revisión cada 6 meses)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "MURCIA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 6,
+    "normativa_referencia": "Orden de 11 de septiembre de 2003 de la Consejería de Economía, Industria e Innovación de la Región de Murcia (mantenimiento e inspección de baja tensión)",
+    "articulo": "Arts. 2.1, 4, 5.1 y 13 y anexo, apdo. 1.b",
+    "url_oficial": "https://www.borm.es/services/anuncio/ano/2003/numero/10390/pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en un garaje cerrado, si es de pública concurrencia."
+  },
+  {
     "codigo_norma": "ORD-11-09-2003-MURCIA-BT-MANT-PISCINA",
     "nombre_inspeccion": "Mantenimiento eléctrico de la piscina por instalador autorizado (más de 10 kW; revisión cada 6 meses)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -1302,6 +1318,24 @@
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
     "riesgo_adicional": "Exigencia de subsanar las deficiencias y posible realización de las obras en sustitución y a costa de los propietarios (art. 125.4 LUIB). No hacer en los plazos del informe las obras de carácter inmediato o urgente es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+  },
+  {
+    "codigo_norma": "ORD-ROBLEDO-CHAVELA-ITE-2026",
+    "nombre_inspeccion": "ITE Municipal — Robledo de Chavela (30 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "MADRID"
+    ],
+    "municipio": [
+      "Robledo de Chavela"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza sobre conservación, rehabilitación y estado ruinoso de los edificios, solares y parcelas urbanas de Robledo de Chavela (BOCM n.º 179, 29/07/2026)",
+    "articulo": "Arts. 32, 34, 39.2 y 43 y disposición transitoria de la Ordenanza; arts. 169, 204.4 y 207.a Ley 9/2001; arts. 2.2.a y 4.2 y disposiciones transitorias primera y tercera del Decreto 103/2016",
+    "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/07/29/BOCM-20260729-39.PDF",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 30000,
+    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución de obras (art. 169.5 y 169.6)."
   },
   {
     "codigo_norma": "ORD-SA-POBLA-IEE-30A",
@@ -1730,7 +1764,7 @@
     "articulo": "RD 1699/2011, art. 10.6; RD 244/2019, arts. 3.c y 4.1",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19242#a10",
     "sancion_min_eur": null,
-    "sancion_max_eur": 600000,
+    "sancion_max_eur": null,
     "riesgo_adicional": "La revisión certifica si la instalación cumple las condiciones reglamentarias o propone las medidas correctoras (RD 1699/2011, art. 10.6). Si la instalación supone un riesgo inminente para las personas, la distribuidora puede desconectarla de inmediato (art. 10.4)."
   },
   {
@@ -1920,7 +1954,7 @@
   },
   {
     "codigo_norma": "RD-487-2022-LEGIONELLA-ANALISIS-ANUAL",
-    "nombre_inspeccion": "Análisis de Legionella en el agua sanitaria (trimestral, laboratorio)",
+    "nombre_inspeccion": "Análisis de legionela en el agua sanitaria (trimestral, laboratorio)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "TODAS"
@@ -1936,7 +1970,7 @@
   },
   {
     "codigo_norma": "RD-487-2022-LEGIONELLA-LIMPIEZA-ACS",
-    "nombre_inspeccion": "Limpieza y desinfección ACS (prevención legionella)",
+    "nombre_inspeccion": "Limpieza y desinfección anual del agua caliente sanitaria (prevención de la legionela)",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2527,6 +2561,22 @@
     "riesgo_adicional": "La inspección de nivel B se hace con el equipo fuera de servicio: revisa las zonas de mayor esfuerzo y corrosión, mide espesores y prueba los accesorios de seguridad (REP, anexo III, 2.2), para detectar el deterioro antes de que el calderín falle."
   },
   {
+    "codigo_norma": "RD-809-2021-REP-CALDERIN-NIVEL-C",
+    "nombre_inspeccion": "Inspección de nivel C del calderín del grupo de presión, con prueba de presión hidrostática (organismo de control o empresa instaladora)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 144,
+    "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión (REP), anexo III",
+    "articulo": "RD 809/2021, REP, arts. 6.5 y 9.6; anexo III, tabla 1 y apartado 2.3",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407#ai-3",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "La de nivel C añade a la de nivel B (equipo fuera de servicio, zonas de mayor esfuerzo y corrosión, espesores y accesorios de seguridad) una prueba de presión hidrostática (REP, anexo III, 2.2 y 2.3): es la única de las tres que somete el calderín a presión de prueba."
+  },
+  {
     "codigo_norma": "RD-830-2010-DDD-SEMESTRAL",
     "nombre_inspeccion": "Desinfección, desinsectación y desratización del almacén de contenedores",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -2715,6 +2765,22 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en un local con riesgo de incendio. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
+  },
+  {
+    "codigo_norma": "RD-842-2002-REBT-OCA-GARAJE-PC-5A",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión garaje (de 6 a 24 plazas, a confirmar)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 e ITC-BT-28",
+    "articulo": "ITC-BT-05, apdos. 4.1.b y 4.2; ITC-BT-28, apdo. 1",
+    "url_oficial": "https://www.boe.es/eli/es/rd/2002/08/02/842/con",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en un garaje cerrado, si es de pública concurrencia."
   },
   {
     "codigo_norma": "RD-842-2002-REBT-OCA-PISCINA-5A",

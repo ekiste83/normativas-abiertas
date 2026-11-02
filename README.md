@@ -11,18 +11,18 @@ consultar y filtrar en
 [fincasaldia.es/recursos/normativas-abiertas](https://fincasaldia.es/recursos/normativas-abiertas/).
 
 <!-- cifras:inicio -->
-**Última actualización de los datos:** 2026-10-26
+**Última actualización de los datos:** 2026-11-02
 
 | | Filas |
 |---|---:|
-| **Total** | **175** |
-| Ámbito estatal (todas las comunidades) | 80 |
-| Ámbito autonómico o estatal con excepciones | 67 |
-| Ordenanzas municipales | 28 |
-| Tipo ITE | 35 |
-| Tipo OCA | 28 |
+| **Total** | **179** |
+| Ámbito estatal (todas las comunidades) | 82 |
+| Ámbito autonómico o estatal con excepciones | 68 |
+| Ordenanzas municipales | 29 |
+| Tipo ITE | 36 |
+| Tipo OCA | 30 |
 | Tipo revisión | 59 |
-| Tipo mantenimiento | 53 |
+| Tipo mantenimiento | 54 |
 <!-- cifras:fin -->
 
 Los datos se actualizan solos cada semana desde la base de datos de FincasAlDía
