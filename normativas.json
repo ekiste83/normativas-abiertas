@@ -349,7 +349,7 @@
   },
   {
     "codigo_norma": "DEC-102-2015-LEY-11-2018-EXTREMADURA-ITE",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Extremadura)",
+    "nombre_inspeccion": "IEE — Informe de Evaluación del Edificio (Extremadura)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "EXTREMADURA"
@@ -361,7 +361,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723#a29",
     "sancion_min_eur": 100,
     "sancion_max_eur": 3000,
-    "riesgo_adicional": null
+    "riesgo_adicional": "Si el ayuntamiento ordena las obras y no se hacen: ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios) o hasta diez multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una, mínimo 300 € (art. 168.2 LOTUS); puede ser además infracción leve, de 100 a 3.000 € (arts. 183.4.i y 186.1.a). La Ley 11/2019 de vivienda califica de grave, de más de 4.000 a 40.000 €, incumplir los deberes de mantenimiento del inmueble (arts. 93.m y 98.1.b), aunque no está claro que alcance a este caso."
   },
   {
     "codigo_norma": "DEC-117-2018-PV-ITE-50A-10A",
@@ -412,22 +412,6 @@
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
   },
   {
-    "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-100KW",
-    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con empresa mantenedora (más de 100 kW)",
-    "tipo_inspeccion": "MANTENIMIENTO",
-    "ccaa": [
-      "CATALUNA"
-    ],
-    "municipio": null,
-    "periodicidad_meses": 12,
-    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
-    "articulo": "ITA-12, art. 16.5, del annex 2 del D 192/2023; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
-    "sancion_min_eur": null,
-    "sancion_max_eur": 100000,
-    "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
-  },
-  {
     "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-GARAJE",
     "nombre_inspeccion": "Contrato de mantenimiento de baja tensión del garaje con empresa mantenedora (25 plazas o más)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -437,8 +421,8 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
-    "articulo": "ITA-12, arts. 3.1, 3.3.c y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.g y h",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "articulo": "ITA-12, arts. 3.1, 3.2.a, 3.3.c y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.g y h",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=1998879&type=01",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación del garaje entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
@@ -454,14 +438,14 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
     "articulo": "ITA-12, arts. 3.2.b, 6.2.h y 16.5, del annex 2, y disp. transitoria sexta del D 192/2023",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=1998879&type=01",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
   },
   {
     "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-PISCINA",
-    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión de la piscina con empresa mantenedora (más de 10 kW)",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión de la piscina con empresa mantenedora (más de 5 kW)",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "CATALUNA"
@@ -469,24 +453,24 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
-    "articulo": "ITA-12, arts. 3.3.e y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.n",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "articulo": "ITA-12, arts. 3.2.a, 3.3.e y 16.5, del annex 2 del D 192/2023; ITC-BT-04, 3.1.n",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=1998879&type=01",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación eléctrica de la piscina, una zona con agua, entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
   },
   {
     "codigo_norma": "DEC-192-2023-CAT-BT-ENLLAC-OCA-10A",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace y servicios generales (20 suministros o más, cada 10 años)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace, de la caja general de protección a cada vivienda (20 suministros o más, cada 10 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió) + RD 842/2002 REBT, ITC-BT-05",
-    "articulo": "ITA-12, arts. 3.3.h, 8.1 y 8.3, del annex 2 del D 192/2023; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
+    "articulo": "ITA-12, arts. 3.3.h, 8.1 y 8.3, del annex 2 del D 192/2023",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=1998879&type=01",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
@@ -521,7 +505,7 @@
     "url_oficial": "https://www.asturias.es/bopa/2017/05/24/2017-05669.pdf",
     "sancion_min_eur": 150,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "Si el informe es desfavorable y las obras no se hacen en plazo, el ayuntamiento puede actuar conforme al art. 233 del TROTU, además de sancionar (art. 9.4 del Decreto 29/2017)."
+    "riesgo_adicional": "Si el informe es desfavorable y las obras no se hacen en plazo, el ayuntamiento, además de sancionar, puede mandar hacerlas (orden de ejecución; art. 233 del TROTU y art. 9.4 del Decreto 29/2017). Si no se cumple: multa del 5 % al 20 % del presupuesto de las obras (art. 251.1 TROTU), además de hasta diez multas coercitivas (se repiten para forzar a cumplir; art. 233.3)."
   },
   {
     "codigo_norma": "DEC-485-2019-AND-PISCINA-ANUAL",
@@ -538,6 +522,38 @@
     "sancion_min_eur": 3001,
     "sancion_max_eur": 15000,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
+  },
+  {
+    "codigo_norma": "DEC-5-2014-PV-ASCENSOR-OCA-4A",
+    "nombre_inspeccion": "Inspección periódica OCA ascensor",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 48,
+    "normativa_referencia": "RD 355/2024 (ITC AEM 1) y Decreto 5/2014 del País Vasco",
+    "articulo": "ITC AEM 1, art. 11.4.b; Decreto 5/2014, art. 5.4",
+    "url_oficial": "https://www.euskadi.eus/bopv2/datos/2014/02/1400651a.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Un ascensor sin inspeccionar puede tener defectos de seguridad sin detectar."
+  },
+  {
+    "codigo_norma": "DEC-5-2014-PV-ASCENSOR-OCA-6A",
+    "nombre_inspeccion": "Inspección periódica OCA ascensor (edificios pequeños, 6 años)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 72,
+    "normativa_referencia": "RD 355/2024 (ITC AEM 1) y Decreto 5/2014 del País Vasco",
+    "articulo": "ITC AEM 1, art. 11.4.c; Decreto 5/2014, art. 5.4",
+    "url_oficial": "https://www.euskadi.eus/bopv2/datos/2014/02/1400651a.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Un ascensor sin inspeccionar puede tener defectos de seguridad sin detectar."
   },
   {
     "codigo_norma": "DEC-99-2024-MADRID-PISCINAS",
@@ -617,7 +633,7 @@
     "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=261030",
     "sancion_min_eur": 300,
     "sancion_max_eur": 3000,
-    "riesgo_adicional": "Si no se presenta en plazo, el ayuntamiento aplica la disciplina urbanística (art. 7.3 del Decreto 1/2014); si el informe es desfavorable, actúa según la gravedad de las deficiencias (art. 8.1)."
+    "riesgo_adicional": "Si no se presenta en plazo, el ayuntamiento aplica la disciplina urbanística, es decir, sus medidas de control y sanción (art. 7.3 del Decreto 1/2014); si el informe es desfavorable, decide según lo graves que sean las deficiencias (art. 8.1). Si ordena las obras y no se cumplen los plazos: infracción grave, de 3.001 a 30.000 € (arts. 270.2.h y 275.1.b de la Ley 5/2022), aunque el art. 271.2.e recoge lo mismo como leve; y multas coercitivas (se pueden repetir cada tres meses para forzar a cumplir) de 300 a 3.000 € (art. 254.6)."
   },
   {
     "codigo_norma": "IEE-GALICIA-LEY-1-2019-DEC-61-2021",
@@ -629,11 +645,11 @@
     "municipio": null,
     "periodicidad_meses": 120,
     "normativa_referencia": "Ley 1/2019 + Decreto 61/2021 (Galicia)",
-    "articulo": "Arts. 7 y 8 Ley 1/2019; Decreto 61/2021",
+    "articulo": "Arts. 7 y 8 Ley 1/2019; arts. 6.1 y 15 del Decreto 61/2021",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-7839",
     "sancion_min_eur": 300,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": null
+    "riesgo_adicional": "Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) también es infracción leve, de 300 a 6.000 € (arts. 158.4.b y 161.1.a de la Ley 2/2016), además de multas coercitivas (se pueden repetir cada tres meses para forzar a cumplir) de 1.000 a 10.000 € (art. 136.4)."
   },
   {
     "codigo_norma": "IEE-MURCIA-DEC-34-2015",
@@ -649,7 +665,7 @@
     "url_oficial": "https://www.borm.es/eli/es-mc/d/2015/3/13/34/dof/spa/html",
     "sancion_min_eur": 100,
     "sancion_max_eur": 100,
-    "riesgo_adicional": "El ayuntamiento requiere el informe en un plazo máximo de seis meses y, si no se presenta, ordena hacerlo a costa de la comunidad (art. 7.5 del Decreto 34/2015)."
+    "riesgo_adicional": "El ayuntamiento exige el informe dando como máximo seis meses y, si no se presenta, ordena hacerlo a costa de los propietarios (art. 7.5 del Decreto 34/2015). No hacer las obras necesarias puede ser infracción grave, de 3.001 a 15.000 €, o leve, de 300 a 3.000 €, si es de poca importancia (Ley 6/2015 de vivienda, arts. 66.d, 65.2 y 68.1); el ayuntamiento puede ordenarlas con plazo (art. 270.1 de la Ley 13/2015)."
   },
   {
     "codigo_norma": "IEE-NAVARRA-DF-108-2014",
@@ -665,7 +681,7 @@
     "url_oficial": "https://www.lexnavarra.navarra.es/detalle.asp?r=34830",
     "sancion_min_eur": 300,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "Multas coercitivas y ejecución subsidiaria del ayuntamiento, previo apercibimiento (art. 11.2.1.d del DF 108/2014)."
+    "riesgo_adicional": "El ayuntamiento, con aviso previo, puede poner multas coercitivas (se repiten para forzar a cumplir) y aplicar la ejecución subsidiaria (hace el trabajo y lo cobra a los propietarios; art. 11.2.1.d del Decreto Foral 108/2014). Si el informe es de no apto y no se hacen las obras: infracción grave, de 6.000 a 60.000 €, si el deterioro es considerable (art. 11.2.2.b del Decreto Foral 108/2014; arts. 215.12 y 218.1.b del Decreto Foral Legislativo 1/2017); si no, leve, de 300 a 6.000 € (art. 214.5). Si además se desoye un requerimiento (el escrito oficial que las exige): infracción grave de la ley de vivienda, de 3.001 a 30.000 € (Ley Foral 10/2010, arts. 65.24 y 67.1.b)."
   },
   {
     "codigo_norma": "IEEV-CV-VALENCIA",
@@ -681,7 +697,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90283#a1-101",
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "La conselleria puede exigir el informe con una orden de ejecución e imponer hasta cinco multas coercitivas mensuales de hasta el 20 % del coste del informe, y después encargarlo a costa de la comunidad (art. 189.6 TRLOTUP); el ayuntamiento también puede redactarlo a su costa tras un requerimiento de dos meses (art. 11.4 del Decreto 53/2018)."
+    "riesgo_adicional": "La conselleria de la Generalitat puede exigir el informe con una orden de ejecución, imponer hasta cinco multas coercitivas (se repiten para forzar a cumplir) mensuales de hasta el 20 % del coste del informe cada una y después encargarlo a costa de los propietarios (art. 189.6 TRLOTUP). El ayuntamiento también puede redactarlo a costa de los propietarios tras exigirlo dando dos meses (art. 11.4 del Decreto 53/2018). Si se ordenan las obras y no se hacen: ejecución subsidiaria (la Administración las hace y las cobra a los propietarios) o hasta diez multas coercitivas de hasta el 10 % de su coste cada una, con independencia de las sanciones que correspondan (art. 192.5 TRLOTUP)."
   },
   {
     "codigo_norma": "IITE-CATALUNA-VIVIENDAS",
@@ -693,11 +709,11 @@
     "municipio": null,
     "periodicidad_meses": 120,
     "normativa_referencia": "Decret 67/2015 (Cataluña) + Llei 18/2007 del dret a l'habitatge",
-    "articulo": "Art. 4 y annex 1 del Decret 67/2015; art. 28 Llei 18/2007",
+    "articulo": "Arts. 4, 5.1 y 14 y annex 1 del Decret 67/2015; art. 28 y DT 2.ª bis Llei 18/2007",
     "url_oficial": "https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=692917",
     "sancion_min_eur": 9001,
     "sancion_max_eur": 90000,
-    "riesgo_adicional": "Multas coercitivas y sanciones según la Llei 18/2007 (art. 6 del Decret 67/2015)."
+    "riesgo_adicional": "No hacer las obras necesarias puede ser infracción grave, de 9.001 a 90.000 €, si afecta gravemente a la habitabilidad y hubo notificación previa (arts. 124.1.c y 118.2 de la Ley 18/2007), y muy grave, de 90.001 a 900.000 €, si supone riesgo para las personas o incumple un programa de rehabilitación forzosa (arts. 123.1.f y 118.1). Incumplir una orden de ejecución (la Administración manda hacer las obras; art. 38) es muy grave (art. 123.1.g). Además, multas coercitivas (se repiten para forzar a cumplir) o ejecución subsidiaria (la Administración las hace y las cobra a los propietarios; art. 38.3 y art. 6 del Decreto 67/2015)."
   },
   {
     "codigo_norma": "INSTR-1-2015-EXTREMADURA-BT-OCA-10A",
@@ -708,8 +724,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "Instrucción 1/2015 de la Dirección General de Industria y Energía de Extremadura + RD 842/2002 REBT, ITC-BT-05",
-    "articulo": "Apartados primero y segundo de la Instrucción 1/2015",
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Instrucción 1/2015 de la Dirección General de Industria y Energía de Extremadura",
+    "articulo": "ITC-BT-05, apdo. 4.2; Instrucción 1/2015, apartados primero y segundo",
     "url_oficial": "https://doe.juntaex.es/pdfs/doe/2015/850o/15081473.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -773,11 +789,11 @@
     "municipio": null,
     "periodicidad_meses": 120,
     "normativa_referencia": "Ley 7/2021 (LISTA) + Decreto 550/2022 (RLISTA)",
-    "articulo": "Art. 145 LISTA; art. 323.3 RLISTA (Decreto 550/2022, BOJA nº 232 de 02/12/2022)",
+    "articulo": "Art. 145 LISTA; art. 323.3 y DT 9.ª RLISTA (Decreto 550/2022, BOJA nº 232 de 02/12/2022)",
     "url_oficial": "https://www.juntadeandalucia.es/boja/2022/232/BOJA22-232-00310-19728-01_00272914.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ITE-ARAGON-LEY-3-2009",
@@ -793,7 +809,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOA-d-2014-90410",
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "El ayuntamiento puede ordenar que se haga la inspección (art. 260.4 TRLUA). Si ordena obras y no se hacen: multas coercitivas de hasta el 10 % del coste de las obras cada una y ejecución subsidiaria (arts. 258.2 y 259)."
+    "riesgo_adicional": "El ayuntamiento puede ordenar que se haga la inspección (art. 260.4 TRLUA). No hacer las obras necesarias puede ser infracción leve, de 600 a 6.000 € (art. 277.d), o grave, de más de 6.000 a 60.000 €, si el deterioro supera la cuarta parte del valor de una construcción nueva (arts. 278.d y 254.3). Si el ayuntamiento ordena las obras y no se hacen: multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; arts. 258.2 y 259)."
   },
   {
     "codigo_norma": "ITE-CAM-LEY-9-2001-ART-169",
@@ -809,11 +825,11 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-18984",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución de obras (art. 169.5 y 169.6)."
+    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución (el ayuntamiento manda hacer las obras; art. 169.5 y 169.6). No hacer las obras necesarias puede ser infracción leve, de 600 a 30.000 € (arts. 204.4 y 207.a), o multa del 15 % al 25 % del valor de las obras si infringe normas higiénico-sanitarias o estéticas (art. 225); si el ayuntamiento las ordena y no se hacen, puede además aplicar la ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios) o expropiar (art. 170.2)."
   },
   {
     "codigo_norma": "ITE-CANARIAS-LSENPC-4-2017",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Canarias)",
+    "nombre_inspeccion": "ITE — Inspección Técnica de Edificaciones (Canarias)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CANARIAS"
@@ -822,14 +838,14 @@
     "periodicidad_meses": 240,
     "normativa_referencia": "Ley 4/2017 (LSENPC)",
     "articulo": "Art. 269 + Disposición Adicional 3ª",
-    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-10295#a2-81",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-10295#da-3",
     "sancion_min_eur": 60,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "Ejecución subsidiaria a costa de los propietarios si no se presenta la documentación, con el coste que fije la ordenanza (art. 269.3), y órdenes de ejecución (art. 269.5)."
+    "riesgo_adicional": "Si no se presenta la documentación, puede haber ejecución subsidiaria (la Administración la hace y la cobra a los propietarios), con el coste que fije la ordenanza (art. 269.3). La Administración también puede mandar hacer las obras (orden de ejecución; art. 269.5); si no se hacen: ejecución subsidiaria (la Administración las hace y las cobra a los propietarios) o hasta diez multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una (art. 272.3). No hacer las obras necesarias puede ser además infracción de la Ley 2/2003 de vivienda, según sus consecuencias: leve, hasta 3.000 € (art. 104.h); grave, hasta 150.000 € (art. 105.q); muy grave, si supone un riesgo para la seguridad de las personas, hasta 300.000 € (art. 106.k; cuantías, art. 112). Si ya hubo una sanción firme anterior (sin recurso posible) por otra infracción urbanística, la infracción leve de la Ley 4/2017 pasa a grave (art. 372.3.g)."
   },
   {
     "codigo_norma": "ITE-CASTILLA-LA-MANCHA-TRLOTAU-DEC-25-2019",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Castilla-La Mancha)",
+    "nombre_inspeccion": "IEE — Informe de Evaluación del Edificio (Castilla-La Mancha)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CASTILLA_LA_MANCHA"
@@ -841,39 +857,88 @@
     "url_oficial": "https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2019/04/11/pdf/2019_3625.pdf&tipo=rutaDocm",
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "El ayuntamiento requiere el informe y, si no se atiende, ordena hacerlo a costa de los propietarios (art. 13.4 del Decreto 25/2019)."
+    "riesgo_adicional": "El ayuntamiento exige por escrito el informe y, si no se atiende, ordena hacerlo a costa de los propietarios (art. 13.4 del Decreto 25/2019). Si ya hubo una sanción firme anterior (sin recurso posible) por otra infracción de la ley de urbanismo (TRLOTAU), la infracción puede pasar a grave, de 6.001 a 150.000 € (arts. 183.2.h y 184.2.b). Si ordena las obras y no se hacen: hasta diez multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 140.2)."
   },
   {
     "codigo_norma": "ITE-CASTILLA-LEON-LEY-5-1999-DEC-6-2016",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificaciones (Castilla y León)",
+    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Castilla y León)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CASTILLA_Y_LEON"
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "Decreto 6/2016 + Ley 5/1999 de Urbanismo",
+    "normativa_referencia": "Reglamento de Urbanismo de Castilla y León (Decreto 22/2004, redacción del Decreto 6/2016) + Ley 5/1999 de Urbanismo + Ley 9/2010 de vivienda",
     "articulo": "Arts. 315 bis y 316 del Reglamento de Urbanismo de Castilla y León, redacción del Decreto 6/2016 (BOCyL nº 44, 04/03/2016)",
     "url_oficial": "https://bocyl.jcyl.es/boletines/2016/03/04/pdf/BOCYL-D-04032016-1.pdf",
     "sancion_min_eur": 1000,
     "sancion_max_eur": 15000,
-    "riesgo_adicional": "Si no se acredita en plazo, el ayuntamiento puede requerirla en tres meses y después hacerla de oficio a costa de los propietarios; también puede dictar órdenes de ejecución de las obras (art. 318 del Reglamento de Urbanismo)."
+    "riesgo_adicional": "Si no se demuestra en plazo que se ha hecho, el ayuntamiento puede exigirla dando como máximo tres meses y después hacerla por su cuenta a costa de los propietarios; también puede mandar hacer las obras (orden de ejecución; art. 318 del Reglamento de Urbanismo) y, si no se cumple, aplicar la ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios) o poner hasta diez multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una (arts. 318.5 y 322.2)."
+  },
+  {
+    "codigo_norma": "ITE-CASTILLA-LEON-RUCYL-315-BIS-2B",
+    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Castilla y León)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Aldeatejada",
+      "Alfoz de Quintanadueñas",
+      "Boecillo",
+      "Cabezón de Pisuerga",
+      "Cabrerizos",
+      "Cacabelos",
+      "Camponaraya",
+      "Carracedelo",
+      "Castellanos de Moriscos",
+      "Chozas de Abajo",
+      "Cuadros",
+      "Doñinos de Salamanca",
+      "Dueñas",
+      "Fuensaldaña",
+      "Golmayo",
+      "Grijota",
+      "La Lastrilla",
+      "Lastrilla",
+      "Lastrilla (La)",
+      "Lastrilla, La",
+      "Medina de Rioseco",
+      "Mojados",
+      "Morales del Vino",
+      "Olmedo",
+      "Portillo",
+      "Renedo de Esgueva",
+      "San Cristóbal de Segovia",
+      "Santovenia de Pisuerga",
+      "Santovenia de la Valdoncina",
+      "Valdefresno",
+      "Viana de Cega",
+      "Villanubla"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Reglamento de Urbanismo de Castilla y León (Decreto 22/2004, redacción del Decreto 6/2016) + Ley 5/1999 de Urbanismo + Ley 9/2010 de vivienda",
+    "articulo": "Arts. 315 bis.2.b y 316 del Reglamento de Urbanismo de Castilla y León, redacción del Decreto 6/2016 (BOCyL nº 44, 04/03/2016)",
+    "url_oficial": "https://bocyl.jcyl.es/boletines/2016/03/04/pdf/BOCYL-D-04032016-1.pdf",
+    "sancion_min_eur": 1000,
+    "sancion_max_eur": 15000,
+    "riesgo_adicional": "Si no se demuestra en plazo que se ha hecho, el ayuntamiento puede exigirla dando como máximo tres meses y después hacerla por su cuenta a costa de los propietarios; también puede mandar hacer las obras (orden de ejecución; art. 318 del Reglamento de Urbanismo) y, si no se cumple, aplicar la ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios) o poner hasta diez multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una (arts. 318.5 y 322.2)."
   },
   {
     "codigo_norma": "ITE-CEUTA-2013",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (Ceuta)",
+    "nombre_inspeccion": "IEE — Informe de Evaluación de Edificios (Ceuta)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CEUTA"
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "RDLeg 7/2015, texto refundido de la Ley de Suelo y Rehabilitación Urbana, art. 29.1",
-    "articulo": "Art. 29.1 TRLSRU",
+    "normativa_referencia": "Normas Urbanísticas del PGOU de Ceuta (BOCCE extraordinario n.º 2, 08/01/2024) y RDLeg 7/2015, texto refundido de la Ley de Suelo y Rehabilitación Urbana",
+    "articulo": "Arts. 3.5.3.6 y 3.5.7 de las Normas Urbanísticas del PGOU; art. 29.1 TRLSRU",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723#a29",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
-    "riesgo_adicional": null
+    "riesgo_adicional": "Si la Ciudad manda hacer las obras (orden de ejecución) y no se cumple, puede abrir un expediente de sanción y aplicar la ejecución subsidiaria (la Ciudad las hace y las cobra a los propietarios; art. 10.3 del Reglamento de Disciplina Urbanística)."
   },
   {
     "codigo_norma": "ITE-MELILLA-BOME-5039-2013",
@@ -889,11 +954,11 @@
     "url_oficial": "https://www.melilla.es/melillaportal/RecursosWeb/DOCUMENTOS/1/0_10262_1.pdf",
     "sancion_min_eur": 500,
     "sancion_max_eur": 1000,
-    "riesgo_adicional": "Ejecución subsidiaria de la inspección a costa de la propiedad (arts. 59 y 61) y orden de ejecución si no se piden las obras tras un informe desfavorable (art. 60)."
+    "riesgo_adicional": "Si no se presenta el informe, puede haber ejecución subsidiaria de la inspección (la Ciudad la hace y la cobra a los propietarios; arts. 59 y 61). Si tras un informe desfavorable no se pide licencia de obras en tres meses, la Ciudad manda hacerlas (orden de ejecución; art. 60). No pedirla en esos tres meses es infracción leve, 750 € (art. 63.1.a.2 y 63.2.a.2); en edificios protegidos es grave, aunque el art. 63.2 no le fija cuantía (art. 63.1.b.3). Incumplir el plazo de una orden de ejecución, de 500 a 3.000 € según el caso (art. 24)."
   },
   {
     "codigo_norma": "LEY-2-2007-RIOJA-ITE",
-    "nombre_inspeccion": "ITE — Inspección Técnica de Edificios (La Rioja)",
+    "nombre_inspeccion": "IEE — Informe de Evaluación de Edificios (La Rioja)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "LA_RIOJA"
@@ -905,7 +970,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-9008#a197",
     "sancion_min_eur": 300,
     "sancion_max_eur": 3000,
-    "riesgo_adicional": "Órdenes de ejecución de las obras de conservación (art. 197.2 LOTUR)."
+    "riesgo_adicional": "El ayuntamiento puede mandar hacer las obras de conservación (orden de ejecución; art. 197.2 LOTUR). No hacerlas también es infracción leve, de 300 a 3.000 € (arts. 218.4 y 221.1.a)."
   },
   {
     "codigo_norma": "LOE-LIBRO-EDIFICIO-PLAN-MANTENIMIENTO",
@@ -939,7 +1004,7 @@
     "url_oficial": "https://www.cordoba.es/sites/default/files/PDF/Ayuntamiento/ordenanzas_bandos_y_otros/ordenanzas-y-reglamentos-municipales-no-fiscales/via_publica/ordenanza_Inspec_Tecnica.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD_ITE_HUELVA_2002",
@@ -957,7 +1022,7 @@
     "url_oficial": "https://www.huelva.es/portal/sites/default/files/documentos/urbanismo/documentos/ordenanza_ite_2014.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si no se atiende el requerimiento de presentarla (dos meses), la ordenanza lo considera incumplimiento del deber de conservación (art. 9.1), que podría ser infracción grave de la ley andaluza (LISTA), de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b), y el Ayuntamiento puede encargar el informe a costa de los propietarios. Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD_ITE_MALAGA_2013",
@@ -975,7 +1040,7 @@
     "url_oficial": "https://www.malaga.eu/visorcontenido/NRMDocumentDisplayer/639/DocumentoNormativa639",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD_ITE_MARBELLA_2013",
@@ -989,11 +1054,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza de Inspección Técnica de Edificaciones y Construcciones de Marbella (BOP de Málaga n.º 224, 22/11/2013)",
-    "articulo": "Arts. 2.1, 6.2 y 6.3 y disposición transitoria de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
+    "articulo": "Arts. 2.1, 6.2 y 6.3 y disposición transitoria de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
     "url_oficial": "https://urbanismo.marbella.es/images/media/attachments/documentos/ordenanzas/185_inspeccion-tecnica-de-edificio/Ordenanza_ITE.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD_ITE_SEVILLA_2011",
@@ -1007,11 +1072,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza de Inspección Técnica de Edificaciones de Sevilla (texto refundido, BOP de Sevilla nº 265, 16/11/2011)",
-    "articulo": "Arts. 1.2, 5.3 y 8.2 de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
+    "articulo": "Arts. 1.2, 5.3 y 8.2 y disposición transitoria única de la Ordenanza; art. 323.3 RLISTA (Decreto 550/2022)",
     "url_oficial": "https://www.sevilla.org/ayuntamiento/unidad-organica/servicio-de-apoyo-juridico/ordenanzas-del-municipio-de-sevilla/texto-refundido-de-la-ordenanza-de-inspeccion-tecnica-de-edificaciones.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si no se presenta tras el requerimiento y la Gerencia de Urbanismo dicta una orden de ejecución para garantizar el deber de conservación (art. 5.6 de la ordenanza), incumplirla puede ser infracción grave, de 3.000 a 29.999 € (arts. 161.3.g y 162.1.b LISTA). Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD-11-09-2003-MURCIA-BT-MANT-GARAJE",
@@ -1031,7 +1096,7 @@
   },
   {
     "codigo_norma": "ORD-11-09-2003-MURCIA-BT-MANT-GARAJE-6-24",
-    "nombre_inspeccion": "Mantenimiento eléctrico del garaje por instalador autorizado (de 6 a 24 plazas, a confirmar; revisión cada 6 meses)",
+    "nombre_inspeccion": "Mantenimiento eléctrico del garaje cerrado y cubierto por instalador autorizado (de 6 a 24 plazas; revisión cada 6 meses)",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "MURCIA"
@@ -1089,11 +1154,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza Municipal Reguladora de la Inspección Técnica de Edificaciones de Algeciras (BOP de Cádiz n.º 236, 12/12/2013)",
-    "articulo": "Arts. 2, 3, 4 y 7 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "articulo": "Arts. 2, 3, 4 y 7 y disposición transitoria primera de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
     "url_oficial": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2013/12_diciembre/BOP236_12-12-13.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD-ANM-2011-65-MADRID-ITE",
@@ -1107,11 +1172,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza de Conservación, Rehabilitación y Estado Ruinoso de las Edificaciones de Madrid (BOCM n.º 306, 26/12/2011)",
-    "articulo": "Arts. 14, 16, 21.2, 22 a 24 y 26 y disposición transitoria cuarta de la Ordenanza; art. 169 Ley 9/2001; arts. 2.2.a y 4.2 y disposiciones transitorias primera y tercera del Decreto 103/2016",
+    "articulo": "Arts. 14, 16, 21.2, 22 a 24 y 26 y disposición transitoria cuarta de la Ordenanza; arts. 169, 204.4 y 207.a Ley 9/2001; arts. 2.2.a, 4.2 y 5 y disposiciones transitorias primera y tercera del Decreto 103/2016",
     "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2011/12/26/BOCM-20111226-27.PDF",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución de obras (art. 169.5 y 169.6)."
+    "riesgo_adicional": "Si no se presenta, tras dos meses más, hasta tres multas coercitivas (se repiten para forzar a cumplir) de 1.000, 2.000 y 3.000 €, y el Ayuntamiento puede hacerla a costa de los propietarios (arts. 22 a 24). Si sale desfavorable y no se hacen las obras, puede ser infracción leve, de 600 a 30.000 € (arts. 204.4 y 207.a Ley 9/2001), o multa del 15 % al 25 % del valor de las obras si infringe normas higiénico-sanitarias o estéticas (art. 225). Si el Ayuntamiento las ordena y no se hacen, hasta otras tres multas coercitivas de 1.000, 2.000 y 3.000 € (art. 45 de la Ordenanza), y puede hacerlas y cobrarlas a los propietarios o expropiar (arts. 49 y 52 de la Ordenanza; art. 170.2 de la ley). En vivienda protegida, puede ser en su lugar falta grave, de 1.501 a 6.000 € (Ley 9/2003, arts. 7.d y 9.1.b): si un mismo hecho encaja en las dos leyes, se aplica la sanción más grave (art. 211.2 Ley 9/2001)."
   },
   {
     "codigo_norma": "ORD-BCN-OMA-COMBUSTION-REVISION-ANUAL",
@@ -1133,7 +1198,7 @@
   },
   {
     "codigo_norma": "ORD-BCN-OUPU-CERT-SEGURETAT-15A",
-    "nombre_inspeccion": "Certificado de seguridad de fachadas y demás elementos exteriores — Barcelona (OUPU, cada 10 años)",
+    "nombre_inspeccion": "Certificado de seguridad de fachadas y demás elementos exteriores — Barcelona (cada 10 años)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "CATALUNA"
@@ -1142,12 +1207,12 @@
       "Barcelona"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenança dels usos del paisatge urbà de Barcelona (OUPU, 1999)",
+    "normativa_referencia": "Ordenança dels usos del paisatge urbà de la ciutat de Barcelona (OUPU; BOPB n.º 146, 19/06/1999; art. 118, BOPB n.º 191, 10/08/2001)",
     "articulo": "Arts. 42, 43, 114.2.e y 118.2 de la OUPU",
-    "url_oficial": "https://w110.bcn.cat/PaisatgeUrba/Continguts/Documents/Fitxers/OUPU_consolidada.pdf",
+    "url_oficial": "https://dibaaps.diba.cat/scripts/ftpisa.asp?fnew?cido&bopb/1999/06/19990619/BOPB_19990619_018_055.pdf&97d0440b2f1392cc1c1ecb64141e9ce9c5c96d3d907f04647a2c534c904119bc",
     "sancion_min_eur": null,
     "sancion_max_eur": 6010.12,
-    "riesgo_adicional": "Requerimiento del Ajuntament con un mes de plazo y ejecución subsidiaria de las obras a costa de la comunidad (art. 43 de la OUPU)."
+    "riesgo_adicional": "Si no se hacen en plazo las obras que indica el certificado: infracción muy grave, hasta 60.101,21 € (arts. 114.1.d y 118.3 de la ordenanza). Además, requerimiento del Ajuntament con un mes de plazo y ejecución subsidiaria de las obras (el Ajuntament las hace y las cobra a la comunidad; art. 43 de la ordenanza)."
   },
   {
     "codigo_norma": "ORD-ESTEPONA-ITE-30A",
@@ -1160,12 +1225,12 @@
       "Estepona"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenanza municipal reguladora de la Inspección Técnica de Edificaciones de Estepona (BOP de Málaga n.º 147, 30/07/2007)",
-    "articulo": "Arts. 2, 3, 7 y 10 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
-    "url_oficial": "https://coamalaga.es/wp-content/uploads/2026/03/ITE_Estepona.pdf",
+    "normativa_referencia": "Ordenanza Reguladora de la Inspección Técnica de Edificios de Estepona (BOP de Málaga n.º 147, 30/07/2007)",
+    "articulo": "Arts. 2, 3, 7 y 10 y disposición transitoria de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "url_oficial": "https://www.bopmalaga.es/edicto.php?edicto=20070730-08794-2007-00",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD-GIJON-ATMOSFERA-CALDERA-REMISION-ANUAL",
@@ -1188,6 +1253,24 @@
     "riesgo_adicional": "Si el Ayuntamiento pide la documentación y se presenta incompleta, defectuosa o fuera de plazo, es infracción grave, de 751 a 1.500 € (arts. 62.3.b.3 y 63.b); si no se presenta, muy grave, de 1.501 a 3.000 € (arts. 62.4.b.3 y 63.c)."
   },
   {
+    "codigo_norma": "ORD-HUESCA-ITE-50A",
+    "nombre_inspeccion": "ITE Municipal — Huesca (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ARAGON"
+    ],
+    "municipio": [
+      "Huesca"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza municipal reguladora del deber de la inspección técnica de edificios de Huesca (BOP de Huesca n.º 66, 09/04/2012)",
+    "articulo": "Arts. 6, 10, 14 y 15 y disposición transitoria primera de la Ordenanza; arts. 260, 277 y 278 TRLUA (Decreto Legislativo 1/2014)",
+    "url_oficial": "https://bop.dphuesca.es/export/sites/bop/publica/.galleries/PDFs-Anuncios-Antiguos/bopboletines/pdf/2012/2012-66.pdf",
+    "sancion_min_eur": 600,
+    "sancion_max_eur": 6000,
+    "riesgo_adicional": "Hasta tres multas coercitivas (se repiten para forzar a cumplir) de 800 € y, después, la inspección a costa de la propiedad (art. 14.3 de la ordenanza). No hacer las obras necesarias puede ser infracción leve, de 600 a 6.000 €, o grave, de más de 6.000 a 60.000 €, si el deterioro supera la cuarta parte del valor de una construcción nueva (arts. 277.d, 278.d y 254.3 de la ley de urbanismo de Aragón, TRLUA). Si el ayuntamiento ordena las obras y no se hacen: multas coercitivas de hasta el 10 % de su coste cada una (arts. 258.2 y 259 TRLUA) o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios)."
+  },
+  {
     "codigo_norma": "ORD-JEREZ-ITE-20A",
     "nombre_inspeccion": "ITE Municipal — Jerez de la Frontera (20 años)",
     "tipo_inspeccion": "ITE",
@@ -1200,11 +1283,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza de Inspección Técnica de Edificaciones de Jerez de la Frontera (BOP de Cádiz n.º 11, 19/01/2009)",
-    "articulo": "Arts. 2.1, 3, 4 y 7 de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
+    "articulo": "Arts. 2.1, 3, 4 y 7 y disposición adicional 1.ª de la Ordenanza; arts. 323.2 y 323.3 RLISTA (Decreto 550/2022)",
     "url_oficial": "https://www.bopcadiz.es/export/sites/default/.boletines_pdf/2009/01_enero/BOP011_19-01-09.pdf",
     "sancion_min_eur": 600,
     "sancion_max_eur": 2999,
-    "riesgo_adicional": "Si la inspección obliga a hacer obras y no se hacen: incumplir el deber de conservación o la orden de ejecución es infracción grave, de 3.000 a 29.999 € (arts. 161.3.f-g y 162.1.b LISTA), con hasta diez multas coercitivas de 600 a 5.000 € y ejecución subsidiaria a costa de la comunidad (art. 144.2)."
+    "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
     "codigo_norma": "ORD-LPGC-ATMOSFERA-COMBUSTION-REVISION-ANUAL",
@@ -1245,7 +1328,7 @@
   },
   {
     "codigo_norma": "ORD-MAO-IEE-30A",
-    "nombre_inspeccion": "Informe de evaluación del edificio — Maó (desde 30 años)",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Maó (más de 30 años)",
     "tipo_inspeccion": "ITE",
     "ccaa": [
       "BALEARES"
@@ -1256,12 +1339,12 @@
       "Maó-Mahón"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenança d'Avaluació d'Edificis de Maó, text refós (BOIB nº 58, 7/05/2026)",
+    "normativa_referencia": "Texto refundido de la Ordenanza de Evaluación de Edificios del término municipal de Maó (BOIB n.º 58, 7/05/2026)",
     "articulo": "Arts. 2.1, 3.5, 4, 5.A y 11; disposiciones transitorias 1.ª y 2.ª",
-    "url_oficial": "https://www.caib.es/eboibfront/eli/es-ib-01070321/odnz/2026/05/07/(1)/dof/spa/html",
+    "url_oficial": "https://www.caib.es/eboibfront/pdf/es/2026/58/1218650",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+    "riesgo_adicional": "Si el informe sale desfavorable y obliga a hacer obras, hay seis meses como máximo para iniciar la licencia o la comunicación previa; la ordenanza no dice desde cuándo (art. 5.A). Si el Ayuntamiento las ordena y no se cumple la orden, puede hacerlas a costa de la propiedad, dar un nuevo plazo, poner multas coercitivas (se repiten para forzar a cumplir) del 10 % del valor de las obras, con un mínimo de 600 € (art. 13 de la ordenanza; arts. 123.2 y 187.6.b de la ley de urbanismo balear, LUIB), o sacar a concurso la rehabilitación. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
   },
   {
     "codigo_norma": "ORD-MOSTOLES-PISCINA-REAPERTURA",
@@ -1298,7 +1381,7 @@
     "url_oficial": "https://bop.depourense.es/portalapi/api/edicto/descargar/html/352255/es",
     "sancion_min_eur": 300,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "Si no se presenta en plazo, el Ayuntamiento puede encargarlo a costa de la comunidad (art. 13.2 de la ordenanza) y no concede ayudas municipales de rehabilitación (art. 13.3)."
+    "riesgo_adicional": "Si no se presenta en plazo, el Ayuntamiento puede encargarlo a costa de la comunidad (art. 13.2 de la ordenanza) y no concede ayudas municipales de rehabilitación (art. 13.3). Si no se hacen las obras: orden de ejecución (el ayuntamiento manda hacerlas). Si se incumple, infracción leve de 300 a 6.000 € (arts. 158.4.b y 161.1.a de la Ley 2/2016), multas coercitivas (se repiten para forzar a cumplir) de 1.000 a 10.000 €, cada tres meses, hasta el 75 % del coste de reposición (lo que costaría rehacerlo; art. 136.4), o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 136.5)."
   },
   {
     "codigo_norma": "ORD-PALMA-ITE-50A",
@@ -1312,12 +1395,12 @@
       "Palma de Mallorca"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenanza reguladora del informe de evaluación de los edificios de Palma (BOIB n.º 73, 16/05/2015)",
-    "articulo": "Arts. 2.1, 4.3 y 13 y disposición adicional segunda de la Ordenanza; art. 125.1 LUIB",
+    "normativa_referencia": "Ordenanza reguladora del informe de evaluación de los edificios de Palma de Mallorca (BOIB n.º 73, 16/05/2015)",
+    "articulo": "Arts. 2.1, 4.3 y 13, disposición adicional segunda y disposición transitoria segunda de la Ordenanza; art. 125.1 LUIB",
     "url_oficial": "https://www.caib.es/eboibfront/pdf/es/2015/73/919372",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "Exigencia de subsanar las deficiencias y posible realización de las obras en sustitución y a costa de los propietarios (art. 125.4 LUIB). No hacer en los plazos del informe las obras de carácter inmediato o urgente es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+    "riesgo_adicional": "Si el informe sale desfavorable y obliga a hacer obras, hay que pedir la licencia o presentar la comunicación previa de las obras en un plazo que acaba en junio del año siguiente a aquel en que tocaba el informe (art. 7). Si no se acredita la conclusión final favorable (el escrito del técnico que confirma que las obras están hechas), el Ayuntamiento da un último plazo de 3 meses y puede poner hasta tres multas coercitivas (se repiten para forzar a cumplir) de 1.000, 2.000 y 3.000 € (art. 15), y además hacer las obras a costa de los propietarios (art. 125.4 de la ley de urbanismo balear, LUIB). No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
   },
   {
     "codigo_norma": "ORD-ROBLEDO-CHAVELA-ITE-2026",
@@ -1331,11 +1414,11 @@
     ],
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza sobre conservación, rehabilitación y estado ruinoso de los edificios, solares y parcelas urbanas de Robledo de Chavela (BOCM n.º 179, 29/07/2026)",
-    "articulo": "Arts. 32, 34, 39.2 y 43 y disposición transitoria de la Ordenanza; arts. 169, 204.4 y 207.a Ley 9/2001; arts. 2.2.a y 4.2 y disposiciones transitorias primera y tercera del Decreto 103/2016",
+    "articulo": "Arts. 32, 34, 39.2, 40, 41 y 43 y disposición transitoria de la Ordenanza; arts. 169, 204.4 y 207.a Ley 9/2001; arts. 2.2.a, 4.2 y 5 y disposiciones transitorias primera y tercera del Decreto 103/2016",
     "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/07/29/BOCM-20260729-39.PDF",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "El ayuntamiento puede exigir el informe y, si la inspección no se ha hecho, ordenarla o hacerla a costa de los propietarios; el informe puede servir de base para órdenes de ejecución de obras (art. 169.5 y 169.6)."
+    "riesgo_adicional": "Si no se presenta, tras tres meses más, el Ayuntamiento puede hacerla a costa de los propietarios (arts. 40 y 41); la ordenanza no prevé multas coercitivas (las que se repiten para forzar a cumplir). Si sale desfavorable y no se hacen las obras, puede ser infracción leve, de 600 a 30.000 € (arts. 204.4 y 207.a Ley 9/2001), o multa del 15 % al 25 % del valor de las obras si infringe normas higiénico-sanitarias o estéticas (art. 225). Si el Ayuntamiento las ordena y no se hacen, puede hacerlas y cobrarlas a los propietarios, sancionar o expropiar (art. 26 de la Ordenanza; art. 170.2 de la ley), y repetir la orden con un plazo igual (art. 29). En vivienda protegida, puede ser en su lugar falta grave, de 1.501 a 6.000 € (Ley 9/2003, arts. 7.d y 9.1.b): si un mismo hecho encaja en las dos leyes, se aplica la sanción más grave (art. 211.2 Ley 9/2001)."
   },
   {
     "codigo_norma": "ORD-SA-POBLA-IEE-30A",
@@ -1351,12 +1434,12 @@
       "Sa Pobla"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenança municipal sobre l'informe d'avaluació d'edificis de l'Ajuntament de sa Pobla (BOIB nº 125, 18/09/2025)",
+    "normativa_referencia": "Ordenanza Municipal sobre el informe de evaluación de edificios del Ayuntamiento de sa Pobla (BOIB n.º 125, 18/09/2025)",
     "articulo": "Arts. 2, 3.2, 4, 9.A y 14; disposición transitoria y disposición final",
-    "url_oficial": "https://www.caib.es/eboibfront/pdf/ca/2025/125/1200772",
+    "url_oficial": "https://www.caib.es/eboibfront/pdf/es/2025/125/1200771",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+    "riesgo_adicional": "Si el informe sale desfavorable y obliga a hacer obras, hay nueve meses como máximo, sin que la ordenanza diga desde cuándo, para pedir la licencia o presentar la comunicación previa; si no, ejecución forzosa (el Ayuntamiento obliga a hacerlas) y las sanciones que correspondan (art. 9.A.2.a). Si no se acredita la conclusión final favorable (el escrito del técnico que confirma que las obras están hechas), el Ayuntamiento da un último plazo de tres meses y puede poner hasta tres multas coercitivas (se repiten para forzar a cumplir) de 1.000, 2.000 y 3.000 € (art. 16). No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
   },
   {
     "codigo_norma": "ORD-SANT-JOSEP-IEE-30A",
@@ -1374,10 +1457,28 @@
     "periodicidad_meses": 120,
     "normativa_referencia": "Ordenanza municipal reguladora de los informes de evaluación de edificios de Sant Josep de sa Talaia (BOIB nº 52, 23/04/2026)",
     "articulo": "Arts. 2, 3.2, 4, 8.1.A y 12; disposiciones transitorias 1.ª y 2.ª",
-    "url_oficial": "https://www.caib.es/eboibfront/eli/es-ib-01070488/odnz/2026/04/23/(1)/dof/spa/html",
+    "url_oficial": "https://www.caib.es/eboibfront/pdf/es/2026/52/1217706",
     "sancion_min_eur": 600,
     "sancion_max_eur": 30000,
-    "riesgo_adicional": "Infracción urbanística leve (arts. 163.2.b.ii y 174 LUIB), continuada mientras no se presente el informe; si no se pide la licencia de las obras, las medidas de ejecución de la ordenanza. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+    "riesgo_adicional": "Si el informe sale desfavorable y obliga a hacer obras que se pueden autorizar, hay seis meses desde su presentación para iniciar la licencia o la comunicación previa (art. 8.1.A). Si el Ayuntamiento las ordena y no se cumple la orden, puede hacerlas a costa de la propiedad, dar un nuevo plazo, poner multas coercitivas (se repiten para forzar a cumplir) del 10 % del valor de las obras, con un mínimo de 600 € (art. 14 de la ordenanza; arts. 123.2 y 187.6.b de la ley de urbanismo balear, LUIB), o sacar a concurso la rehabilitación. No hacer en plazo las obras inmediatas o urgentes del informe es infracción muy grave de la Ley 5/2018 (art. 88.q), con multa de 30.001 a 90.000 € (art. 90.1.c)."
+  },
+  {
+    "codigo_norma": "ORD-TERUEL-IEE-50A",
+    "nombre_inspeccion": "Informe de evaluación del edificio — Teruel (50 años)",
+    "tipo_inspeccion": "ITE",
+    "ccaa": [
+      "ARAGON"
+    ],
+    "municipio": [
+      "Teruel"
+    ],
+    "periodicidad_meses": 120,
+    "normativa_referencia": "Ordenanza municipal reguladora del informe de evaluación de edificios de Teruel (BOP de Teruel n.º 19, 29/01/2015; corrección en el n.º 32, 17/02/2015)",
+    "articulo": "Arts. 3.1, 4, 11.2, 13.B, 15, 16 y 17 y disposición transitoria primera de la Ordenanza; art. 260 TRLUA (Decreto Legislativo 1/2014)",
+    "url_oficial": "https://236ws.dpteruel.es/estatico/boletines/2015/29enero.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 1500,
+    "riesgo_adicional": "Con sanción firme previa por lo mismo, la falta grave pasa a muy grave, de 1.501 a 3.000 €, si esa sanción es de los últimos tres años (art. 16.3.d), y la leve a grave, si es del último año (art. 16.4.d). Si no se presenta, el Ayuntamiento lo ordena con dos meses de plazo (art. 15; el art. 14 dice 3 meses) y puede encargar el informe a costa de la propiedad (arts. 14 y 15). Si el informe es desfavorable, puede ordenar las obras con tres meses de plazo, o menos, y con ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 12.b). No hacerlas puede ser infracción leve, de 600 a 6.000 €, o grave, de más de 6.000 a 60.000 €, si el deterioro supera la cuarta parte del valor de una construcción nueva (arts. 277.d, 278.d y 254.3 de la ley de urbanismo de Aragón, TRLUA), con multas coercitivas (se repiten para forzar a cumplir) de hasta el 10 % de su coste cada una (arts. 258.2 y 259 TRLUA)."
   },
   {
     "codigo_norma": "ORD-ZARAGOZA-AGUA-DEPOSITO-REVISION-ANUAL",
@@ -1408,12 +1509,12 @@
       "Zaragoza"
     ],
     "periodicidad_meses": 120,
-    "normativa_referencia": "Ordenanza municipal reguladora del deber de conservación de la edificación e inspección técnica de edificios de Zaragoza (BOPZ de 31/10/2002)",
-    "articulo": "Arts. 31, 35, 38 y 39 de la Ordenanza; art. 260 TRLUA (Decreto Legislativo 1/2014)",
+    "normativa_referencia": "Ordenanza reguladora del deber de conservación, edificación e inspección técnica de edificios de Zaragoza (BOPZ n.º 251, 31/10/2002)",
+    "articulo": "Arts. 31, 35, 38 y 39 y disposición transitoria segunda de la Ordenanza; arts. 260, 277 y 278 TRLUA (Decreto Legislativo 1/2014)",
     "url_oficial": "https://www.zaragoza.es/sede/servicio/normativa/eli/es-ar-01502973/odnz/2002/10/31/(1)",
     "sancion_min_eur": 600,
     "sancion_max_eur": 6000,
-    "riesgo_adicional": "Hasta tres multas coercitivas de 600 € y ejecución subsidiaria de la inspección (art. 38 de la ordenanza). Si se ordenan obras y no se hacen: multas coercitivas de hasta el 10 % del coste de las obras cada una y ejecución subsidiaria (arts. 258.2 y 259 TRLUA)."
+    "riesgo_adicional": "Hasta tres multas coercitivas (se repiten para forzar a cumplir) de 600 € y, después, la inspección a costa de la propiedad (art. 38 de la ordenanza). No hacer las obras necesarias puede ser infracción leve, de 600 a 6.000 €, o grave, de más de 6.000 a 60.000 €, si el deterioro supera la cuarta parte del valor de una construcción nueva (arts. 277.d, 278.d y 254.3 de la ley de urbanismo de Aragón, TRLUA). Si el ayuntamiento ordena las obras y no se hacen: multas coercitivas de hasta el 10 % de su coste cada una (arts. 258.2 y 259 TRLUA; la ordenanza, art. 18, dice hasta el 5 %) o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios)."
   },
   {
     "codigo_norma": "ORDEN-22-07-2008-PV-RITE-INSPECCION-70KW",
@@ -1884,7 +1985,24 @@
     "nombre_inspeccion": "Inspección periódica OCA ascensor",
     "tipo_inspeccion": "OCA",
     "ccaa": [
-      "TODAS"
+      "ANDALUCIA",
+      "ARAGON",
+      "ASTURIAS",
+      "BALEARES",
+      "CANARIAS",
+      "CANTABRIA",
+      "CASTILLA_LA_MANCHA",
+      "CASTILLA_Y_LEON",
+      "CATALUNA",
+      "CEUTA",
+      "COMUNIDAD_VALENCIANA",
+      "EXTREMADURA",
+      "GALICIA",
+      "LA_RIOJA",
+      "MADRID",
+      "MELILLA",
+      "MURCIA",
+      "NAVARRA"
     ],
     "municipio": null,
     "periodicidad_meses": 48,
@@ -1900,7 +2018,24 @@
     "nombre_inspeccion": "Inspección periódica OCA ascensor (edificios pequeños, 6 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
-      "TODAS"
+      "ANDALUCIA",
+      "ARAGON",
+      "ASTURIAS",
+      "BALEARES",
+      "CANARIAS",
+      "CANTABRIA",
+      "CASTILLA_LA_MANCHA",
+      "CASTILLA_Y_LEON",
+      "CATALUNA",
+      "CEUTA",
+      "COMUNIDAD_VALENCIANA",
+      "EXTREMADURA",
+      "GALICIA",
+      "LA_RIOJA",
+      "MADRID",
+      "MELILLA",
+      "MURCIA",
+      "NAVARRA"
     ],
     "municipio": null,
     "periodicidad_meses": 72,
@@ -2643,15 +2778,15 @@
   },
   {
     "codigo_norma": "RD-842-2002-REBT-OCA-100KW-CATALUNA",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace y servicios generales (más de 100 kW, cada 10 años)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (más de 100 kW, cada 10 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Decret 192/2023 de Catalunya, ITA-12",
-    "articulo": "ITC-BT-05, apdo. 4.2; nota aclaratoria de la Subdirecció General de Seguretat Industrial de 13/02/2025",
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05",
+    "articulo": "ITC-BT-05, apdo. 4.2",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
@@ -2768,7 +2903,7 @@
   },
   {
     "codigo_norma": "RD-842-2002-REBT-OCA-GARAJE-PC-5A",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión garaje (de 6 a 24 plazas, a confirmar)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión garaje cerrado y cubierto (de 6 a 24 plazas)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "TODAS"
@@ -2935,8 +3070,8 @@
     ],
     "municipio": null,
     "periodicidad_meses": 120,
-    "normativa_referencia": "Resolución de 16 de julio de 2013 de la Dirección General de Industria, Energía y Minas de la Región de Murcia + RD 842/2002 REBT, ITC-BT-05",
-    "articulo": "Anexo I, apdos. 1 a 6",
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Resolución de 16 de julio de 2013 de la Dirección General de Industria, Energía y Minas de la Región de Murcia",
+    "articulo": "ITC-BT-05, apdo. 4.2; Resolución de 16 de julio de 2013, anexo I, apdos. 1 a 6",
     "url_oficial": "https://www.borm.es/services/anuncio/ano/2013/numero/12266/pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
