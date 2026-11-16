@@ -140,7 +140,7 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
@@ -158,7 +158,7 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
@@ -176,7 +176,7 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
@@ -194,7 +194,7 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
@@ -212,7 +212,7 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
@@ -230,10 +230,28 @@
     "periodicidad_meses": null,
     "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
     "articulo": "Arts. 4 y 5 y anexo II",
-    "url_oficial": "https://aytosalamanca.es/documents/20119/972938/bop-sa-20250522-002.pdf/da1a4939-a874-5b5c-275e-f47e162894f8",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
     "riesgo_adicional": "Si no se presenta, el Ayuntamiento puede encargar el informe a costa de los propietarios (art. 6.1)."
+  },
+  {
+    "codigo_norma": "AMIANTO-SALAMANCA-RETIRADA-PRIORIDAD-1",
+    "nombre_inspeccion": "Retirada del amianto en Salamanca (prioridad 1)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": [
+      "Salamanca"
+    ],
+    "periodicidad_meses": null,
+    "normativa_referencia": "Ordenanza municipal reguladora de la retirada del amianto de Salamanca (BOP n.º 96, 22/05/2025)",
+    "articulo": "Arts. 4, 12 y 13 y anexo I",
+    "url_oficial": "https://sede.diputaciondesalamanca.gob.es/documentacion/bop/2025/20250522/BOP-SA-20250522-002.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": null,
+    "riesgo_adicional": "Si no se retira en plazo, el Ayuntamiento puede hacerlo a costa de los propietarios o poner hasta diez multas coercitivas, de hasta el 10 % del valor de la obra cada una (art. 13)."
   },
   {
     "codigo_norma": "CANARIAS-AGUA-ANTERIOR-2011-REVISION-5A",
@@ -293,7 +311,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 3",
-    "articulo": "CTE DB-HS 3, apartado 7, tabla 7.1",
+    "articulo": "CTE DB-HS 3, apartado 7.1, tabla 7.1",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -396,6 +414,22 @@
     "riesgo_adicional": "Fugas, roturas o inundaciones por un defecto no detectado en las tuberías comunes."
   },
   {
+    "codigo_norma": "DEC-141-2009-CANARIAS-BT-CONTRATO-GARAJE",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión del garaje con empresa instaladora autorizada (más de 5.000 m²)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANARIAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Decreto 141/2009 de Canarias (procedimientos de las instalaciones eléctricas), art. 53 y anexo VII",
+    "articulo": "Decreto 141/2009, arts. 53.2 a 53.5, y anexo VII, apdo. 2 (tabla, grupos e, g y h, y nota 3)",
+    "url_oficial": "https://www.gobiernodecanarias.org/boc/2009/230/boc-2009-230-003.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin empresa que la mantenga, nadie revisa la instalación eléctrica del garaje entre inspecciones."
+  },
+  {
     "codigo_norma": "DEC-17-2019-MADRID-BT-OCA-10A",
     "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (más de 16 suministros, cada 10 años)",
     "tipo_inspeccion": "OCA",
@@ -426,6 +460,22 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación del garaje entre inspecciones. Y el organismo de control califica como defecto grave la falta de la documentación técnica obligatoria, de la que forma parte el contrato (ITA-12, 6.2.h y 8.2)."
+  },
+  {
+    "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-GARAJE-6-24",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión del garaje con empresa mantenedora (de 6 a 24 plazas)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CATALUNA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-12 (baixa tensió)",
+    "articulo": "ITA-12, arts. 3.2.a, 6.2.h y 16.5, del annex 2, y disp. transitoria sexta del D 192/2023; ITC-BT-04, 3.1.g y h",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?versionId=1998879&type=01",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 100000,
+    "riesgo_adicional": "Sin empresa mantenedora, nadie revisa la instalación eléctrica del garaje."
   },
   {
     "codigo_norma": "DEC-192-2023-CAT-BT-CONTRATO-MANT",
@@ -461,7 +511,7 @@
   },
   {
     "codigo_norma": "DEC-192-2023-CAT-BT-ENLLAC-OCA-10A",
-    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace, de la caja general de protección a cada vivienda (20 suministros o más, cada 10 años)",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión: instalación de enlace hasta el cuadro de cada vivienda, local y servicios comunes (20 suministros o más, cada 10 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
@@ -477,7 +527,7 @@
   },
   {
     "codigo_norma": "DEC-192-2023-CAT-ITA9-ACS-SEGURIDAD-4A",
-    "nombre_inspeccion": "Inspección de seguridad e higiene del agua caliente centralizada (más de 70 kW, cada 4 años)",
+    "nombre_inspeccion": "Inspección periódica de seguridad del agua caliente centralizada (Cataluña, más de 70 kW, cada 4 años)",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "CATALUNA"
@@ -486,7 +536,7 @@
     "periodicidad_meses": 48,
     "normativa_referencia": "Decret 192/2023 de seguretat industrial de Catalunya, ITA-9 (instal·lacions tèrmiques) + Resolución de la DGI de 05/03/2025 (protocolo técnico)",
     "articulo": "ITA-9, art. 6.2, del annex 2 del D 192/2023; protocolo DGI, apdos. 4.2.1, 4.2.5 y 4.2.6",
-    "url_oficial": "https://portaljuridic.gencat.cat/eli/es-ct/d/2023/11/07/192",
+    "url_oficial": "https://portaldogc.gencat.cat/utilsEADOP/AppJava/PdfProviderServlet?documentId=971700&type=01&language=ca_ES",
     "sancion_min_eur": null,
     "sancion_max_eur": 100000,
     "riesgo_adicional": "Riesgo de legionela y de fallos de seguridad en el agua caliente de todo el edificio."
@@ -516,7 +566,7 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "Decreto 485/2019, de 4 de junio (Reglamento Técnico-Sanitario de Piscinas en Andalucía)",
+    "normativa_referencia": "Decreto 485/2019, de 4 de junio, por el que se aprueba el Reglamento Técnico-Sanitario de las Piscinas en Andalucía",
     "articulo": "Arts. 3.1.b, 8, 17 y 22-23 del Reglamento aprobado por el D 485/2019",
     "url_oficial": "https://www.juntadeandalucia.es/boja/2019/108/4",
     "sancion_min_eur": 3001,
@@ -581,7 +631,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto Foral 86/2018 mod. por DF 6/2022 y DF 27/2025",
-    "articulo": "Arts. 3.3, 22, 24, 29, 34, 35 y 40-41 del DF 86/2018",
+    "articulo": "Arts. 3.3, 12, 20, 22, 23, 24, 29, 34, 35 y 40-41 del DF 86/2018",
     "url_oficial": "https://www.lexnavarra.navarra.es/detalle.asp?r=50777",
     "sancion_min_eur": null,
     "sancion_max_eur": 15025.3,
@@ -1127,6 +1177,70 @@
     "riesgo_adicional": "Riesgo eléctrico en una zona con agua."
   },
   {
+    "codigo_norma": "ORD-17-10-2003-CANTABRIA-BT-CONTRATO-GARAJE",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con instalador autorizado: garaje (25 plazas o más)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden de 17 de octubre de 2003 de la Consejería de Industria, Trabajo y Desarrollo Tecnológico de Cantabria (instrucciones para aplicar el REBT) + RD 842/2002 REBT, ITC-BT-05",
+    "articulo": "Orden de 17/10/2003, arts. 2.2 y 12.3; ITC-BT-05, apdos. 4.1.c y 4.2",
+    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=57036",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin instalador que la mantenga, nadie revisa la instalación del garaje, un local con riesgo de incendio, entre inspecciones."
+  },
+  {
+    "codigo_norma": "ORD-17-10-2003-CANTABRIA-BT-CONTRATO-GARAJE-6-24",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con instalador autorizado: garaje cerrado y cubierto (de 6 a 24 plazas)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden de 17 de octubre de 2003 de la Consejería de Industria, Trabajo y Desarrollo Tecnológico de Cantabria (instrucciones para aplicar el REBT) + RD 842/2002 REBT, ITC-BT-05 e ITC-BT-28",
+    "articulo": "Orden de 17/10/2003, arts. 2.2 y 12.3; ITC-BT-05, apdos. 4.1.b y 4.2; ITC-BT-28, apdo. 1",
+    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=57036",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin instalador que la mantenga, nadie revisa la instalación eléctrica del garaje cerrado."
+  },
+  {
+    "codigo_norma": "ORD-17-10-2003-CANTABRIA-BT-CONTRATO-PISCINA",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con instalador autorizado: piscina (más de 10 kW)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden de 17 de octubre de 2003 de la Consejería de Industria, Trabajo y Desarrollo Tecnológico de Cantabria (instrucciones para aplicar el REBT) + RD 842/2002 REBT, ITC-BT-05",
+    "articulo": "Orden de 17/10/2003, arts. 2.2 y 12.3; ITC-BT-05, apdos. 4.1.e y 4.2",
+    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=57036",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin instalador que la mantenga, nadie revisa la instalación de la piscina, una zona con agua, entre inspecciones."
+  },
+  {
+    "codigo_norma": "ORD-17-10-2003-CANTABRIA-BT-CONTRATO-ZONAS-COMUNES",
+    "nombre_inspeccion": "Contrato de mantenimiento de baja tensión con instalador autorizado: zonas comunes (más de 100 kW)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "CANTABRIA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden de 17 de octubre de 2003 de la Consejería de Industria, Trabajo y Desarrollo Tecnológico de Cantabria (instrucciones para aplicar el REBT) + RD 842/2002 REBT, ITC-BT-05",
+    "articulo": "Orden de 17/10/2003, arts. 2.2 y 12.3; ITC-BT-05, apdo. 4.2",
+    "url_oficial": "https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=57036",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin instalador que la mantenga, nadie revisa la instalación de las zonas comunes entre inspecciones."
+  },
+  {
     "codigo_norma": "ORD-28-04-2008-GALICIA-GLP-MANT-ANUAL",
     "nombre_inspeccion": "Mantenimiento preventivo del depósito de propano (GLP), como máximo cada año",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -1290,25 +1404,6 @@
     "riesgo_adicional": "Si la inspección señala obras y no se hacen, puede ser infracción grave por incumplir el deber de conservación, de 3.000 a 29.999 € (arts. 161.3.f y 162.1.b LISTA). Incumplir una orden de ejecución (el ayuntamiento manda hacer las obras) es grave (art. 161.3.g) y, si hay peligro para la seguridad o la salud, muy grave, de 30.000 a 120.000 € (arts. 161.4.e y 162.1.c). Esas multas pueden subir según el valor de las obras ejecutadas, los terrenos o los daños (art. 162.1). Además, hasta diez multas coercitivas (se repiten para forzar a cumplir) de 600 a 5.000 € cada una y ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios; art. 144.2)."
   },
   {
-    "codigo_norma": "ORD-LPGC-ATMOSFERA-COMBUSTION-REVISION-ANUAL",
-    "nombre_inspeccion": "Revisión y limpieza anual de la caldera, con certificado al Ayuntamiento (Las Palmas de Gran Canaria)",
-    "tipo_inspeccion": "MANTENIMIENTO",
-    "ccaa": [
-      "CANARIAS"
-    ],
-    "municipio": [
-      "Las Palmas",
-      "Las Palmas de Gran Canaria"
-    ],
-    "periodicidad_meses": 12,
-    "normativa_referencia": "Ordenanza Municipal de Protección de la Atmósfera frente a la Contaminación por Formas de la Materia de Las Palmas de Gran Canaria (BOP de Las Palmas de 25/06/1999)",
-    "articulo": "Arts. 23, 32.1, 37, 117 y 123",
-    "url_oficial": "https://www.laspalmasgc.es/export/sites/laspalmasgc/.galleries/documentos-normativa/Ordenanza-Municipal-de-Proteccion-de-la-Atmosfera-frente-a-la-Contaminacion-por-Formas-de-la-Materia.pdf",
-    "sancion_min_eur": null,
-    "sancion_max_eur": null,
-    "riesgo_adicional": "Una caldera sucia o mal regulada quema peor, contamina más y puede acumular hollín en el conducto de humos."
-  },
-  {
     "codigo_norma": "ORD-MADRID-AGUA-PISCINA-ESTANQUEIDAD-ANUAL",
     "nombre_inspeccion": "Ensayo anual de estanqueidad y control de fugas de la piscina (Madrid)",
     "tipo_inspeccion": "REVISION",
@@ -1320,7 +1415,7 @@
     ],
     "periodicidad_meses": 12,
     "normativa_referencia": "Ordenanza de Gestión y Uso Eficiente del Agua en la Ciudad de Madrid (BOCM nº 146, 21/06/2006; art. 30 en la redacción del BOCM nº 83, 08/04/2011)",
-    "articulo": "Arts. 30.2.a, 130.g y 135.3.a de la Ordenanza del Agua; arts. 14, 101, 106.2, 109.2 y 112.1 de la Ordenanza de Protección de la Salubridad Pública (2014)",
+    "articulo": "Arts. 30.2.a, 130.g y 135.3.a de la Ordenanza de Gestión y Uso Eficiente del Agua en la Ciudad de Madrid",
     "url_oficial": "https://www.bocm.es/boletin/CM_Orden_BOCM/2011/04/08/BOCM-20110408-101.PDF",
     "sancion_min_eur": null,
     "sancion_max_eur": 750,
@@ -1482,7 +1577,7 @@
   },
   {
     "codigo_norma": "ORD-ZARAGOZA-AGUA-DEPOSITO-REVISION-ANUAL",
-    "nombre_inspeccion": "Revisión anual de funcionamiento y estanqueidad del depósito de agua (Zaragoza)",
+    "nombre_inspeccion": "Revisión anual de funcionamiento y estanqueidad del depósito atmosférico de agua (Zaragoza)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "ARAGON"
@@ -1493,7 +1588,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Ordenanza municipal para la ecoeficiencia y la calidad de la gestión integral del agua de Zaragoza (BOPZ nº 29, 07/02/2011)",
     "articulo": "Arts. 28.2.b, 28.2.c, 28.3, 28.4, 107.1.d y 108.2",
-    "url_oficial": "https://www.zaragoza.es/sede/servicio/normativa/1542",
+    "url_oficial": "https://bop.dpz.es/BOPZ/UploadServlet?ruta=Boletines%5C2011%5C29%5Cbop.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": 750,
     "riesgo_adicional": "Un depósito abierto con fugas o mal cerrado puede contaminar el agua de consumo de todo el edificio."
@@ -1517,6 +1612,22 @@
     "riesgo_adicional": "Hasta tres multas coercitivas (se repiten para forzar a cumplir) de 600 € y, después, la inspección a costa de la propiedad (art. 38 de la ordenanza). No hacer las obras necesarias puede ser infracción leve, de 600 a 6.000 €, o grave, de más de 6.000 a 60.000 €, si el deterioro supera la cuarta parte del valor de una construcción nueva (arts. 277.d, 278.d y 254.3 de la ley de urbanismo de Aragón, TRLUA). Si el ayuntamiento ordena las obras y no se hacen: multas coercitivas de hasta el 10 % de su coste cada una (arts. 258.2 y 259 TRLUA; la ordenanza, art. 18, dice hasta el 5 %) o ejecución subsidiaria (el ayuntamiento las hace y las cobra a los propietarios)."
   },
   {
+    "codigo_norma": "ORDEN-08-10-2007-PV-GAS-DETECTORES-6M",
+    "nombre_inspeccion": "Comprobación de los detectores de gas de la sala de calderas o de la instalación común, cada 6 meses (País Vasco)",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 6,
+    "normativa_referencia": "Orden de 8 de octubre de 2007 del País Vasco (normas sobre el Reglamento técnico de distribución y utilización de combustibles gaseosos, RD 919/2006)",
+    "articulo": "Art. 9; Decreto 125/2016, anexo II, B.2.2.p",
+    "url_oficial": "https://www.euskadi.eus/bopv2/datos/2007/11/0706114a.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 60000,
+    "riesgo_adicional": "Un detector que no funciona no avisa de una fuga de gas."
+  },
+  {
     "codigo_norma": "ORDEN-22-07-2008-PV-RITE-INSPECCION-70KW",
     "nombre_inspeccion": "Inspección periódica de la calefacción o el agua caliente central de 70 kW o menos (País Vasco; a los 10 años y después cada 5)",
     "tipo_inspeccion": "REVISION",
@@ -1533,6 +1644,54 @@
     "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
   },
   {
+    "codigo_norma": "ORDEN-22-07-2008-PV-RITE-INSPECCION-FRIO-12-70KW",
+    "nombre_inspeccion": "Inspección periódica del aire acondicionado o bomba de calor comunitarios de más de 12 kW y hasta 70 kW (País Vasco; a los 10 años y después cada 5)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "PAIS_VASCO"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "Orden de 22 de julio de 2008 del País Vasco (inspecciones periódicas de instalaciones térmicas)",
+    "articulo": "Art. 5.2.b, 5.3, 5.8 y anexo 8, B",
+    "url_oficial": "https://www.euskadi.eus/bopv2/datos/2008/09/0805355a.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "ORDEN-6-2022-CV-BT-REVISION-ANUAL-GARAJE-25",
+    "nombre_inspeccion": "Revisión anual de baja tensión por empresa instaladora, con boletín de revisión: garaje cerrado y cubierto (25 plazas o más)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "COMUNIDAD_VALENCIANA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden 6/2022, de 15 de junio, de la Conselleria de Economía Sostenible, Sectores Productivos, Comercio y Trabajo (mantenimiento de baja tensión en locales de pública concurrencia)",
+    "articulo": "Orden 6/2022, arts. 2.2, 3, 4, 5 y 7 y anexo I.B",
+    "url_oficial": "https://dogv.gva.es/datos/2022/06/30/pdf/2022_5890.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en el garaje. Además, si el garaje pasa inspección por organismo de control, en ella se comprueban los boletines de revisión anual emitidos desde la inspección anterior (art. 5): si falta alguno, se verá en esa inspección."
+  },
+  {
+    "codigo_norma": "ORDEN-6-2022-CV-BT-REVISION-ANUAL-GARAJE-6-24",
+    "nombre_inspeccion": "Revisión anual de baja tensión por empresa instaladora, con boletín de revisión: garaje cerrado y cubierto (de 6 a 24 plazas)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "COMUNIDAD_VALENCIANA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "Orden 6/2022, de 15 de junio, de la Conselleria de Economía Sostenible, Sectores Productivos, Comercio y Trabajo (mantenimiento de baja tensión en locales de pública concurrencia)",
+    "articulo": "Orden 6/2022, arts. 2.2, 3, 4, 5 y 7 y anexo I.B",
+    "url_oficial": "https://dogv.gva.es/datos/2022/06/30/pdf/2022_5890.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en el garaje. Además, si el garaje pasa inspección por organismo de control, en ella se comprueban los boletines de revisión anual emitidos desde la inspección anterior (art. 5): si falta alguno, se verá en esa inspección."
+  },
+  {
     "codigo_norma": "PISCINA-ARAGON-DEC-119-2006",
     "nombre_inspeccion": "Piscina comunitaria (Aragón) — Decretos 50/1993 + 119/2006",
     "tipo_inspeccion": "REVISION",
@@ -1543,7 +1702,7 @@
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 50/1993, de 19 de mayo, modificado por los Decretos 53/1999 y 119/2006",
     "articulo": "Arts. 2.1.c, 18, 24, 30, 32, 33, 34 y 39 del D 50/1993",
-    "url_oficial": "https://www.aragon.es/documents/20127/674325/DECRETO_50-1993%20de%2019%20de%20mayo.pdf/79ea0a59-a3b8-9e31-3f1b-1b5e57e80ab2",
+    "url_oficial": "https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=128724632118&type=pdf",
     "sancion_min_eur": 3001,
     "sancion_max_eur": 60000,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
@@ -1573,10 +1732,10 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "Decreto 212/2005 mod. por Decreto 119/2010",
-    "articulo": "Arts. 2.2, 3.1, 9, 34, 38, 40, 41 y 42 y anexos 1 y 7 del D 212/2005",
-    "url_oficial": "https://www3.gobiernodecanarias.org/sanidad/scs/content/5926c2c3-e59f-11e3-a788-5f1420c9318c/TextoRefundido_Decreto_212-2005_y_Decreto_119-2010.pdf",
-    "sancion_min_eur": 3005.07,
+    "normativa_referencia": "Decreto 212/2005 (BOC n.º 236, 01/12/2005), modificado por el Decreto 119/2010 (BOC n.º 182, 15/09/2010)",
+    "articulo": "Arts. 2.2, 3.1, 6.4, 9, 34, 38, 40, 41, 42 y 44 y anexos 1 y 7 del D 212/2005 (arts. 34, 38 y 44 y anexos 1 y 7 en la redacción del D 119/2010)",
+    "url_oficial": "https://www.gobiernodecanarias.org/boc/2005/236/boc-2005-236-004.pdf",
+    "sancion_min_eur": null,
     "sancion_max_eur": 15025.3,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
   },
@@ -1605,7 +1764,7 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "Decreto 72/2017, de 10 de octubre",
+    "normativa_referencia": "Decreto 72/2017, de 10 de octubre, por el que se establecen las condiciones higiénico-sanitarias de las piscinas en Castilla-La Mancha",
     "articulo": "Arts. 3.1, 5.2, 21, 27.2, 32.2, 33.3 y 35 y disp. adicional 2.ª del D 72/2017",
     "url_oficial": "https://docm.castillalamancha.es/portaldocm/descargarArchivo.do?ruta=2017/10/23/pdf/2017_12465.pdf&tipo=rutaDocm",
     "sancion_min_eur": null,
@@ -1621,9 +1780,9 @@
     ],
     "municipio": null,
     "periodicidad_meses": 12,
-    "normativa_referencia": "Reglamento regulador de las condiciones higiénico-sanitarias de las piscinas de uso colectivo, de 13 de septiembre de 2002",
+    "normativa_referencia": "Reglamento regulador de las condiciones higiénico-sanitarias de las piscinas de uso colectivo de la Ciudad de Ceuta, de 13 de septiembre de 2002 (BOCCE n.º 4.152, 01/10/2002)",
     "articulo": "Arts. 1.2, 11.3, 11.5, 17, 18, 25 y 26",
-    "url_oficial": "https://www.ceuta.es/ceuta/component/content/article/46-paginas/paginas/normativa/99-reglamento-regulador-de-las-condiciones-higienico-sanitarias-de-las-piscinas-de-uso-colectivo-de-13-de-septiembre-de-2002",
+    "url_oficial": "https://www.ceuta.es/ceuta/component/jdownloads/finish/443-octubre/3053-bocce-4152-01-10-2002?Itemid=534",
     "sancion_min_eur": 601,
     "sancion_max_eur": 6000,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas y, sin vigilancia, hay riesgo de ahogamiento."
@@ -1654,9 +1813,9 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 2/2005 mod. por D. 37/2008 y D. 25/2010",
-    "articulo": "Arts. 2 y 3.a y disposición adicional única",
+    "articulo": "Arts. 2, 3.a, 6.10 y disposición adicional única del D 2/2005; arts. 111 y 112 de la Ley 2/2002",
     "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=649156-1-HTML-296907-X",
-    "sancion_min_eur": 3005.07,
+    "sancion_min_eur": null,
     "sancion_max_eur": 15025.3,
     "riesgo_adicional": "El agua mal tratada puede transmitir infecciones a los bañistas."
   },
@@ -1670,7 +1829,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "Decreto 32/2003 mod. por Decreto 208/2004",
-    "articulo": "Arts. 4, 28, 33, 35, 36, 37, 43.3 y 46 del D 32/2003; arts. 113, 115.3.m y 116 de la Ley 13/2023",
+    "articulo": "Arts. 4, 20, 28, 33, 35, 36, 37, 43.3 y 46 del D 32/2003; arts. 36 y 37 de la Ley 8/1997; arts. 113, 115.3.m y 116 de la Ley 13/2023",
     "url_oficial": "https://www.euskadi.eus/contenidos/decreto/bopv200302659/es_def/index.shtml",
     "sancion_min_eur": null,
     "sancion_max_eur": 60000,
@@ -1822,7 +1981,7 @@
   },
   {
     "codigo_norma": "RD-1027-2007-RITE-IT424-INSPECCION-PERIODICA",
-    "nombre_inspeccion": "Inspección de eficiencia energética de la instalación térmica (más de 70 kW)",
+    "nombre_inspeccion": "Inspección de eficiencia energética de la calefacción o el agua caliente central (más de 70 kW, cada 4 años)",
     "tipo_inspeccion": "REVISION",
     "ccaa": [
       "TODAS"
@@ -1894,7 +2053,7 @@
     "municipio": null,
     "periodicidad_meses": 6,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1 y DB-HS 5",
-    "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1; DB-HS 5, apartado 7",
+    "articulo": "CTE DB-HS 1, apartado 6.1 y tabla 6.1; DB-HS 5, apartado 7",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -1910,7 +2069,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1 y DB-HS 5",
-    "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1; DB-HS 5, apartado 7",
+    "articulo": "CTE DB-HS 1, apartado 6.1 y tabla 6.1; DB-HS 5, apartado 7",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -1926,7 +2085,7 @@
     "municipio": null,
     "periodicidad_meses": 36,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 1",
-    "articulo": "CTE DB-HS 1, apartado 6 y tabla 6.1",
+    "articulo": "CTE DB-HS 1, apartado 6.1 y tabla 6.1",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -1942,7 +2101,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 3",
-    "articulo": "CTE DB-HS 3, apartado 7, tabla 7.1",
+    "articulo": "CTE DB-HS 3, apartado 7.1, tabla 7.1",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -2113,7 +2272,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 487/2022 (mod. RD 614/2024)",
-    "articulo": "Art. 3.2 y anexo IV, parte B (B.1.1 y B.2)",
+    "articulo": "Anexo IV, parte B.1 (punto 1)",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-10297",
     "sancion_min_eur": null,
     "sancion_max_eur": 60000,
@@ -2121,7 +2280,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-ABAST-AGUA-ANUAL",
-    "nombre_inspeccion": "Grupo de bombeo y depósito contra incendios — Revisión anual con curvas (empresa mantenedora)",
+    "nombre_inspeccion": "Grupo de bombeo o depósito contra incendios — Revisión anual con prueba de caudal y presión (empresa mantenedora)",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2137,7 +2296,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-ABAST-AGUA-SEMESTRAL",
-    "nombre_inspeccion": "Grupo de bombeo y depósito contra incendios — Revisión semestral",
+    "nombre_inspeccion": "Grupo de bombeo o depósito contra incendios — Revisión semestral",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2153,7 +2312,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-ABAST-AGUA-TRIMESTRAL",
-    "nombre_inspeccion": "Grupo de bombeo y depósito contra incendios — Revisión trimestral",
+    "nombre_inspeccion": "Grupo de bombeo o depósito contra incendios — Revisión trimestral",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2177,7 +2336,7 @@
     "municipio": null,
     "periodicidad_meses": 12,
     "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla II (redacción del RD 164/2025) + UNE-EN 671-3",
-    "articulo": "Anexo II tabla II",
+    "articulo": "Anexo II, tabla II",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -2201,7 +2360,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-BIE-MANGUERA-20A",
-    "nombre_inspeccion": "BIE: sustitución de las mangueras (cada 20 años)",
+    "nombre_inspeccion": "BIE — Sustitución de las mangueras (cada 20 años)",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2225,7 +2384,7 @@
     "municipio": null,
     "periodicidad_meses": 3,
     "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I (redacción del RD 164/2025)",
-    "articulo": "Anexo II tabla I",
+    "articulo": "Anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -2264,6 +2423,22 @@
     "riesgo_adicional": "Imposibilidad de uso por los bomberos en caso de incendio."
   },
   {
+    "codigo_norma": "RD-513-2017-RIPCI-CONTRATO-MANT",
+    "nombre_inspeccion": "Contrato de mantenimiento de protección contra incendios con empresa mantenedora habilitada",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 12,
+    "normativa_referencia": "RD 513/2017, Reglamento de instalaciones de protección contra incendios (RIPCI), en la redacción del RD 164/2025",
+    "articulo": "Art. 20 (apartado 1, letra b y último párrafo, y apartado 2); disposición transitoria sexta, letras b y c, del RD 164/2025",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Sin contrato, nadie tiene encargadas las revisiones anuales y de cada cinco años, que solo puede hacer una empresa mantenedora o el fabricante (RIPCI, anexo II, apartado 4)."
+  },
+  {
     "codigo_norma": "RD-513-2017-RIPCI-CONTROL-HUMOS-ANUAL",
     "nombre_inspeccion": "Control de humos del garaje — Revisión anual (empresa mantenedora)",
     "tipo_inspeccion": "MANTENIMIENTO",
@@ -2277,7 +2452,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
-    "riesgo_adicional": "El sistema debe garantizar el control del humo «durante la evacuación de los ocupantes, de forma que ésta se pueda llevar a cabo en condiciones de seguridad» (DB-SI, SI 3, 8.1); si no funciona, no cumple esa función."
+    "riesgo_adicional": "Si no funciona, el humo del incendio no se controla y salir del garaje puede ser más difícil."
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-CONTROL-HUMOS-SEMESTRAL",
@@ -2293,7 +2468,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
-    "riesgo_adicional": "El sistema debe garantizar el control del humo «durante la evacuación de los ocupantes, de forma que ésta se pueda llevar a cabo en condiciones de seguridad» (DB-SI, SI 3, 8.1); si no funciona, no cumple esa función."
+    "riesgo_adicional": "Si no funciona, el humo del incendio no se controla y salir del garaje puede ser más difícil."
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-CONTROL-HUMOS-TRIMESTRAL",
@@ -2309,7 +2484,7 @@
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
-    "riesgo_adicional": "El sistema debe garantizar el control del humo «durante la evacuación de los ocupantes, de forma que ésta se pueda llevar a cabo en condiciones de seguridad» (DB-SI, SI 3, 8.1); si no funciona, no cumple esa función."
+    "riesgo_adicional": "Si no funciona, el humo del incendio no se controla y salir del garaje puede ser más difícil."
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-DETECCION-AUTO-ANUAL",
@@ -2336,7 +2511,7 @@
     ],
     "municipio": null,
     "periodicidad_meses": 6,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I (redacción del RD 164/2025)",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
     "articulo": "Anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
@@ -2352,7 +2527,7 @@
     ],
     "municipio": null,
     "periodicidad_meses": 3,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I (redacción del RD 164/2025)",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
     "articulo": "Anexo II tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
@@ -2416,7 +2591,7 @@
     ],
     "municipio": null,
     "periodicidad_meses": 3,
-    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I (redacción del RD 164/2025)",
+    "normativa_referencia": "RD 513/2017 RIPCI, anexo II, tabla I",
     "articulo": "Art. 21.1; disposición transitoria segunda; anexo II, tabla I",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
     "sancion_min_eur": null,
@@ -2425,7 +2600,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-EXTINTORES-VIDA-UTIL-20A",
-    "nombre_inspeccion": "Extintores: retirada a los 20 años de su fabricación",
+    "nombre_inspeccion": "Extintores: fin de su vida útil, a los 20 años de su fabricación",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -2433,7 +2608,7 @@
     "municipio": null,
     "periodicidad_meses": 240,
     "normativa_referencia": "RD 809/2021, Reglamento de equipos a presión, y RD 513/2017 (RIPCI)",
-    "articulo": "Anexo III, tabla 1, nota 1.ª del RD 809/2021; RIPCI, anexo II, tabla II (retimbrado «por tres veces»)",
+    "articulo": "Anexo III, tabla 1, nota 1.ª, y art. 9.4 del RD 809/2021; RIPCI, anexo II, tabla II (retimbrado «por tres veces») y art. 9.2.a",
     "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-16407",
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
@@ -2505,7 +2680,7 @@
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-PCI-GARAJE-OCA-10A",
-    "nombre_inspeccion": "Inspección periódica OCA protección contra incendios garaje",
+    "nombre_inspeccion": "Garaje: inspección de la protección contra incendios por un organismo de control (OCA), cada 10 años",
     "tipo_inspeccion": "OCA",
     "ccaa": [
       "TODAS"
@@ -2518,6 +2693,22 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Si el organismo de control detecta incumplimientos, fija plazos para subsanarlos y, si son muy graves o no se corrigen en plazo, lo comunica a la comunidad autónoma (RIPCI, art. 22.4)."
+  },
+  {
+    "codigo_norma": "RD-513-2017-RIPCI-SENAL-FOTOL-20A",
+    "nombre_inspeccion": "Señales fotoluminiscentes de los equipos contra incendios (brillan a oscuras sin luz eléctrica): sustitución o medición a los 20 años de su fabricación",
+    "tipo_inspeccion": "MANTENIMIENTO",
+    "ccaa": [
+      "TODAS"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 240,
+    "normativa_referencia": "RD 513/2017, Reglamento de instalaciones de protección contra incendios (RIPCI), en la redacción del RD 164/2025",
+    "articulo": "Anexo II, sección 2.ª, último párrafo (tras la tabla III); disposición transitoria sexta.b del RD 164/2025",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-6606",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Si la señal ya no da la luz para la que se fabricó, a oscuras puede no verse dónde está el equipo, y debe verse «aun en caso de fallo en el suministro del alumbrado normal» (RIPCI, anexo I, sección 2.ª, apartado 1)."
   },
   {
     "codigo_norma": "RD-513-2017-RIPCI-SENAL-FOTOL-ANUAL",
@@ -2721,7 +2912,7 @@
     "municipio": null,
     "periodicidad_meses": 1,
     "normativa_referencia": "RD 314/2006, CTE DB-HS 2",
-    "articulo": "CTE DB-HS 2, apartado 3.1, tabla 3.1",
+    "articulo": "CTE DB-HS 2, apartado 3.1.2, tabla 3.1",
     "url_oficial": "https://www.codigotecnico.org/pdf/Documentos/HS/DBHS.pdf",
     "sancion_min_eur": null,
     "sancion_max_eur": null,
@@ -2793,6 +2984,22 @@
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
   },
   {
+    "codigo_norma": "RD-842-2002-REBT-OCA-100KW-CYL",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (más de 100 kW, cada 10 años)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 120,
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Resolución de 26 de diciembre de 2013 de Castilla y León, modificada por la de 1 de septiembre de 2016",
+    "articulo": "ITC-BT-05, apdo. 4.2",
+    "url_oficial": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18099",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo. Si no se corrige en ese plazo, envía el certificado negativo a la Junta de Castilla y León (industria); si el defecto es muy grave, lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3). En las instalaciones anteriores al 18/09/2003, con riesgo inminente se toman medidas inmediatas, incluso dejar la instalación fuera de uso (Orden EYE/236/2005, art. 5)."
+  },
+  {
     "codigo_norma": "RD-842-2002-REBT-OCA-100KW-MADRID",
     "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (más de 100 kW, cada 10 años)",
     "tipo_inspeccion": "OCA",
@@ -2835,7 +3042,6 @@
       "BALEARES",
       "CANTABRIA",
       "CASTILLA_LA_MANCHA",
-      "CASTILLA_Y_LEON",
       "CEUTA",
       "COMUNIDAD_VALENCIANA",
       "GALICIA",
@@ -2983,7 +3189,7 @@
   },
   {
     "codigo_norma": "RD1027_2007_RITE_IT33",
-    "nombre_inspeccion": "Mantenimiento de la instalación térmica por empresa mantenedora (más de 70 kW)",
+    "nombre_inspeccion": "Mantenimiento mensual de la calefacción o el agua caliente central (más de 70 kW), con contrato",
     "tipo_inspeccion": "MANTENIMIENTO",
     "ccaa": [
       "TODAS"
@@ -3062,6 +3268,102 @@
     "riesgo_adicional": "Si el aire acondicionado o la bomba de calor usa un gas con un potencial de calentamiento global de 2.500 o más, desde el 1 de enero de 2026 no puede usarse gas nuevo para su mantenimiento o revisión: solo gas regenerado o reciclado, y hasta el 1 de enero de 2032 (Reglamento (UE) 2024/573, art. 13.4)."
   },
   {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-CALOR-20-70KW-5A",
+    "nombre_inspeccion": "Inspección de eficiencia energética de la calefacción o el agua caliente central de 20 a 70 kW (La Rioja, cada 5 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 6.2, 7, 10 y 10.1",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-COMPLETA-15A",
+    "nombre_inspeccion": "Inspección de la instalación térmica completa de la calefacción o el agua caliente central de 20 a 70 kW (La Rioja, cada 15 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 180,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 11.2, 12, 16.1 y 16.2",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-COMPLETA-15A-CLIMATIZACION",
+    "nombre_inspeccion": "Inspección de la instalación térmica completa del aire acondicionado o bomba de calor comunitarios de 12 a 70 kW (La Rioja, cada 15 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 180,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 11.2, 12, 16.1 y 16.2",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-FRIO-12-70KW-5A",
+    "nombre_inspeccion": "Inspección de eficiencia energética del aire acondicionado o bomba de calor comunitarios de 12 a 70 kW (La Rioja, cada 5 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 60,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 6.2, 7, 10 y 10.2",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-FRIO-MAS-70KW-3A",
+    "nombre_inspeccion": "Inspección de eficiencia energética del aire acondicionado o bomba de calor comunitarios de más de 70 kW (La Rioja, cada 3 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 36,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 6.2, 7.1, 10 y 10.2",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
+    "codigo_norma": "RES-10-11-2010-RIOJA-RITE-OTROS-COMBUSTIBLES-2A",
+    "nombre_inspeccion": "Inspección de eficiencia de la calefacción o el agua caliente de gasóleo u otro combustible que no sea gas ni renovable (más de 70 kW, La Rioja, cada 2 años)",
+    "tipo_inspeccion": "REVISION",
+    "ccaa": [
+      "LA_RIOJA"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 24,
+    "normativa_referencia": "Resolución de 10 de noviembre de 2010 de la Dirección General de Trabajo, Industria y Comercio de La Rioja (procedimiento de inspección de las instalaciones del RITE)",
+    "articulo": "Apdos. 6.2, 7.1, 10 y 10.1",
+    "url_oficial": "https://ias1.larioja.org/boletin/boletin/bor_mostrar_anuncio.jsp?referencia=741868-1-HTML-424262-X",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 6000000,
+    "riesgo_adicional": "Una instalación sin inspeccionar puede tener defectos sin detectar que bajan su rendimiento o comprometen la seguridad."
+  },
+  {
     "codigo_norma": "RES-16-07-2013-MURCIA-BT-OCA-10A",
     "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (25 suministros o más, cada 10 años)",
     "tipo_inspeccion": "OCA",
@@ -3092,5 +3394,21 @@
     "sancion_min_eur": null,
     "sancion_max_eur": 6000000,
     "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo; si no se corrige, envía el certificado negativo a la comunidad autónoma, y si hay un defecto muy grave lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3)."
+  },
+  {
+    "codigo_norma": "RES-26-12-2013-CYL-BT-OCA-10A",
+    "nombre_inspeccion": "Inspección periódica OCA baja tensión zonas comunes (edificio de más de 100 kW o, sin ese dato, 20 contadores de luz o más; cada 10 años)",
+    "tipo_inspeccion": "OCA",
+    "ccaa": [
+      "CASTILLA_Y_LEON"
+    ],
+    "municipio": null,
+    "periodicidad_meses": 120,
+    "normativa_referencia": "RD 842/2002 REBT, ITC-BT-05 + Resolución de 26 de diciembre de 2013 de la Dirección General de Industria e Innovación Tecnológica de Castilla y León, modificada por la de 1 de septiembre de 2016",
+    "articulo": "ITC-BT-05, apdo. 4.2; Resolución de 26/12/2013, anexo I (redacción de la Resolución de 01/09/2016)",
+    "url_oficial": "https://bocyl.jcyl.es/boletines/2016/09/20/pdf/BOCYL-D-20092016-6.pdf",
+    "sancion_min_eur": null,
+    "sancion_max_eur": 90000,
+    "riesgo_adicional": "Defectos eléctricos sin detectar en las instalaciones comunes. Si la inspección detecta un defecto grave (o uno leve de la inspección anterior sin corregir), el organismo de control fija un plazo de hasta 6 meses para corregirlo. Si no se corrige en ese plazo, envía el certificado negativo a la Junta de Castilla y León (industria); si el defecto es muy grave, lo envía de inmediato (ITC-BT-05, 5.2.2 y 5.2.3). En las instalaciones anteriores al 18/09/2003, con riesgo inminente se toman medidas inmediatas, incluso dejar la instalación fuera de uso (Orden EYE/236/2005, art. 5)."
   }
 ]
